@@ -1,0 +1,14 @@
+{
+  "renderingMaterial": "minecraft:oak_planks",
+  "smithingSkill": 0,
+  "isSimple": true,
+  "positions": 4,
+  "pos_1": "littlemore:wooden_sword",
+  "pos_1_cost": 2,
+  "pos_2": "littlemore:wooden_pickaxe",
+  "pos_2_cost": 3,
+  "pos_3": "littlemore:wooden_axe",
+  "pos_3_cost": 3,
+  "pos_4": "littlemore:wooden_shovel",
+  "pos_4_cost": 1
+}

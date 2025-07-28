@@ -1,0 +1,13 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:strange_tincture;",
+  "itseffective:strange_tincture": {
+    "ResultItem": "itseffective:fireresistancepotion",
+    "Effect": "minecraft:fire_resistance",
+    "LevelMod": 0,
+    "TimeMod": 50,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 4
+  }
+}

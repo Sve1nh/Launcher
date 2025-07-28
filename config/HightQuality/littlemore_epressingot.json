@@ -1,0 +1,22 @@
+{
+  "renderingMaterial": "littlemore:epressingot",
+  "isSimple": false,
+  "smithingSkill": 5,
+  "positions": 8,
+  "pos_1": "littlemore:epresssword",
+  "pos_1_cost": 2,
+  "pos_2": "littlemore:epresspickaxe",
+  "pos_2_cost": 3,
+  "pos_3": "littlemore:epressaxe",
+  "pos_3_cost": 3,
+  "pos_4": "littlemore:epressshovel",
+  "pos_4_cost": 1,
+  "pos_5": "littlemore:epressarmor_helmet",
+  "pos_5_cost": 5,
+  "pos_6": "littlemore:epressarmor_chestplate",
+  "pos_6_cost": 8,
+  "pos_7": "littlemore:epressarmor_leggings",
+  "pos_7_cost": 7,
+  "pos_8": "littlemore:epressarmor_boots",
+  "pos_8_cost": 4
+}

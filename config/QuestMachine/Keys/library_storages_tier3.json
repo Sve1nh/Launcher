@@ -1,0 +1,11 @@
+{
+  "ContractType": "find",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 3,
+  "QuestItem": "tag;quest_machine:library_loot_tier4",
+  "TargetType": "the_maze:grimwood_dungeon_box",
+  "TargetRoom": "",
+  "DungeonType": "library",
+  "DungeonDifficulty": 4,
+  "BossEntity": ""
+}

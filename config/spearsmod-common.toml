@@ -1,0 +1,15 @@
+
+["Configs For Simple Spears"]
+	#damage value
+	"Wooden Spear Damage (1/2 per half-heart):" = 6.0
+	#damage value
+	"Stone Spear Damage (1/2 per half-heart):" = 8.0
+	#damage value
+	"Iron Spear Damage (1/2 per half-heart):" = 10.0
+	#damage value
+	"Golden Spear Damage (1/2 per half-heart):" = 6.0
+	#damage value
+	"Diamond Spear Damage (1/2 per half-heart):" = 12.0
+	#damage value
+	"Netherite Spear Damage (1/2 per half-heart):" = 14.0
+

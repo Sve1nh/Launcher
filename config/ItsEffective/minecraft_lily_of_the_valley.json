@@ -1,0 +1,22 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:purificationpotion; itseffective:purificationthrowablepotion;",
+  "itseffective:purificationpotion": {
+    "ResultItem": "itseffective:stabilisationpotion",
+    "Effect": "itseffective:stabilisation",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 5
+  },
+  "itseffective:purificationthrowablepotion": {
+    "ResultItem": "itseffective:stabilisationthrowablepotion",
+    "Effect": "itseffective:stabilisation",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 5
+  }
+}

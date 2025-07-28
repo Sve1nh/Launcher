@@ -1,0 +1,113 @@
+{
+  "ObjectsCount": 22,
+  "Object1": {
+    "renderedItem": "littlemore:coppersword",
+    "name": "",
+    "slot": "0"
+  },
+  "Object2": {
+    "renderedItem": "littlemore:bronzesword",
+    "name": "",
+    "slot": "1"
+  },
+  "Object3": {
+    "renderedItem": "littlemore:needleborsword",
+    "name": "",
+    "slot": "2"
+  },
+  "Object4": {
+    "renderedItem": "littlemore:smithersilksword",
+    "name": "",
+    "slot": "3"
+  },
+  "Object5": {
+    "renderedItem": "littlemore:goldsword",
+    "name": "",
+    "slot": "9"
+  },
+  "Object6": {
+    "renderedItem": "littlemore:ironsword",
+    "name": "",
+    "slot": "18"
+  },
+  "Object7": {
+    "renderedItem": "littlemore:oksasword",
+    "name": "",
+    "slot": "19"
+  },
+  "Object8": {
+    "renderedItem": "littlemore:forkeritesword",
+    "name": "",
+    "slot": "27"
+  },
+  "Object9": {
+    "renderedItem": "littlemore:steelsword",
+    "name": "",
+    "slot": "36"
+  },
+  "Object10": {
+    "renderedItem": "littlemore:dalonsword",
+    "name": "",
+    "slot": "37"
+  },
+  "Object11": {
+    "renderedItem": "littlemore:nicktonsword",
+    "name": "",
+    "slot": "45"
+  },
+  "Object12": {
+    "renderedItem": "littlemore:epresssword",
+    "name": "",
+    "slot": "46"
+  },
+  "Object13": {
+    "renderedItem": "littlemore:bastrumsword",
+    "name": "",
+    "slot": "47"
+  },
+  "Object14": {
+    "renderedItem": "littlemore:steelarmor_chestplate",
+    "name": "",
+    "slot": "49"
+  },
+  "Object15": {
+    "renderedItem": "littlemore:palachitesword",
+    "name": "",
+    "slot": "54"
+  },
+  "Object16": {
+    "renderedItem": "littlemore:broutsword",
+    "name": "",
+    "slot": "55"
+  },
+  "Object17": {
+    "renderedItem": "littlemore:diswixsword",
+    "name": "",
+    "slot": "63"
+  },
+  "Object18": {
+    "renderedItem": "littlemore:kianorsword",
+    "name": "",
+    "slot": "64"
+  },
+  "Object19": {
+    "renderedItem": "littlemore:swordelonsword",
+    "name": "",
+    "slot": "72"
+  },
+  "Object20": {
+    "renderedItem": "littlemore:malenturnsword",
+    "name": "",
+    "slot": "81"
+  },
+  "Object21": {
+    "renderedItem": "littlemore:zaplatsword",
+    "name": "",
+    "slot": "90"
+  },
+  "Object22": {
+    "renderedItem": "littlemore:diswixarmor_chestplate",
+    "name": "",
+    "slot": "94"
+  }
+}

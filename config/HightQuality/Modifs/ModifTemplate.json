@@ -1,0 +1,12 @@
+{
+  "DisplayNameAddition": "§8Poor ",
+  "TextColor": "§8",
+  "ArmorMod": 1,
+  "ArmorToughnessMod": 1,
+  "DamageMod": 1,
+  "BlockReachMod": 1,
+  "HealthMod": 1,
+  "SpeedMod": 0.01,
+  "HarvestLevelMod": -1,
+  "RepairCostMod": 0
+}

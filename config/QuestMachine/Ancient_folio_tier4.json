@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contractwithkey",
+  "ConvertTo": "quest_machine:contract",
+  "ContractName": "\u00A75Ancient folio",
+  "Description": "Find ancient folio",
+  "Lore": "I heard there is an flooded library somewhere around here. Can you find one ancient folio?",
+  "ContractType": "find",
+  "MinTargetCount": 2,
+  "MaxTargetCount": 3,
+  "QuestItem": "quest_machine:folio_4",
+  "TargetType": "the_maze:grimwood_dungeon_box",
+  "TargetRoom": "",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 24,
+  "MaxPayment": 60,
+  "DungeonType": "library",
+  "DungeonDifficulty": 4,
+  "BossEntity": ""
+}

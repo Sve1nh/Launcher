@@ -1,0 +1,22 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:stoneskinpotion; itseffective:stoneskinthrowablepotion;",
+  "itseffective:stoneskinpotion": {
+    "ResultItem": "itseffective:shieldbreakerpotion",
+    "Effect": "itseffective:shield_breaker",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 10
+  },
+  "itseffective:stoneskinthrowablepotion": {
+    "ResultItem": "itseffective:shieldbreakerthrowablepotion",
+    "Effect": "itseffective:shield_breaker",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 10
+  }
+}

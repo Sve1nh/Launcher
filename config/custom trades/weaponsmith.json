@@ -1,0 +1,287 @@
+{
+  "profession": "minecraft:weaponsmith",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "littlemore:coppersword",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 3,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:weaponsmith_coppersword_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "littlemore:bronzesword",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 5,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 3,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:weaponsmith_bronzesword_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "littlemore:ironsword",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "tradeExp": 7,
+      "maxUses": 3,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:weaponsmith_ironsword_for_emerald"
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "littlemore:oksasword",
+          "amount": 1
+        },
+        {
+          "itemKey": "littlemore:steelsword",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 3,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:weaponsmith_multioffer_oksasword_for_emerald"
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "littlemore:dalonsword",
+          "amount": 1
+        },
+        {
+          "itemKey": "littlemore:forkeritesword",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 24,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 3,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:weaponsmith_multioffer_dalonsword_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:coal",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:weaponsmith_emerald_for_coal"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "littlemore:copperingot",
+        "amount": 10,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:weaponsmith_emerald_for_copperingot"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "littlemore:bronzeingot",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 4,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:weaponsmith_emerald_for_bronzeingot"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bell",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 32,
+        "priceModifier": 0
+      },
+      "tradeExp": 7,
+      "maxUses": 4,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:weaponsmith_bell_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "littlemore:ironingot",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:weaponsmith_emerald_for_ironingot"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:flint",
+        "amount": 24,
+        "priceModifier": 0
+      },
+      "tradeExp": 7,
+      "maxUses": 4,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:weaponsmith_emerald_for_flint"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "littlemore:oksaingot",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 7,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:weaponsmith_emerald_for_oksaingot"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "littlemore:steelingot",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 7,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:weaponsmith_emerald_for_steelingot"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "littlemore:daloningot",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:weaponsmith_emerald_for_daloningot"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "littlemore:forkeriteingot",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:weaponsmith_emerald_for_forkeriteingot"
+    }
+  ]
+}

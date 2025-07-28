@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contractwithkey",
+  "ConvertTo": "quest_machine:contract",
+  "ContractName": "\u00A72Grave of the Hero",
+  "Description": "Find hero helmet",
+  "Lore": "Find helmet of glorious hero in the crypt.",
+  "ContractType": "find",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 2,
+  "QuestItem": "quest_machine:helmet_2",
+  "TargetType": "the_maze:grimwood_dungeon_box",
+  "TargetRoom": "grave",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 12,
+  "MaxPayment": 16,
+  "DungeonType": "crypt",
+  "DungeonDifficulty": 2,
+  "BossEntity": ""
+}

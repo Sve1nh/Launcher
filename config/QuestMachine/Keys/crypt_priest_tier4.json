@@ -1,0 +1,11 @@
+{
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "gleamns:haste",
+  "TargetType": "",
+  "TargetRoom": "",
+  "DungeonType": "crypt",
+  "DungeonDifficulty": 4,
+  "BossEntity": "bigboss:priest_tier_4"
+}

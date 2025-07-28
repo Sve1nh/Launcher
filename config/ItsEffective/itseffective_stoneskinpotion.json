@@ -1,0 +1,76 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:teleportationpotion; itseffective:healingessense; itseffective:strengthpotion; itseffective:weaknesspotion; itseffective:teleportationpotion; itseffective:healingessensethrowable; itseffective:strengththrowablepotion; itseffective:weaknessthrowablepotion;",
+  "itseffective:teleportationpotion": {
+    "ResultItem": "itseffective:reflectionpotion",
+    "Effect": "itseffective:reflection",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 9
+  },
+  "itseffective:healingessense": {
+    "ResultItem": "itseffective:powerpotion",
+    "Effect": "itseffective:power",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 9
+  },
+  "itseffective:strengthpotion": {
+    "ResultItem": "itseffective:fortresspotion",
+    "Effect": "itseffective:fortress",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 9
+  },
+  "itseffective:weaknesspotion": {
+    "ResultItem": "itseffective:shieldbreakerpotion",
+    "Effect": "itseffective:shield_breaker",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 10
+  },
+  "itseffective:teleportationthrowablepotion": {
+    "ResultItem": "itseffective:reflectionthrowablepotion",
+    "Effect": "itseffective:reflection",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 9
+  },
+  "itseffective:healingessensethrowable": {
+    "ResultItem": "itseffective:powerthrowablepotion",
+    "Effect": "itseffective:power",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 9
+  },
+  "itseffective:strengththrowablepotion": {
+    "ResultItem": "itseffective:fortressthrowablepotion",
+    "Effect": "itseffective:fortress",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 9
+  },
+  "itseffective:weaknessthrowablepotion": {
+    "ResultItem": "itseffective:shieldbreakerthrowablepotion",
+    "Effect": "itseffective:shield_breaker",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 10
+  }
+}

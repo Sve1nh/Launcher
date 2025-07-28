@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contractwithkey",
+  "ConvertTo": "quest_machine:contract",
+  "ContractName": "\u00A77Monolith",
+  "Description": "Destroy the monolith",
+  "Lore": "Destroy the ancient Monolith in the mines and fine the rune stone.",
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "quest_machine:rune_stone_1",
+  "TargetType": "",
+  "TargetRoom": "",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 5,
+  "MaxPayment": 10,
+  "DungeonType": "mine",
+  "DungeonDifficulty": 1,
+  "BossEntity": "bigboss:monolith_tier_1"
+}

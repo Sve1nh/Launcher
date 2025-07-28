@@ -1,0 +1,12 @@
+{
+	"uiPosition": "RIGHT",
+	"clientsidePrediction": false,
+	"horizontalHudOffset": 0,
+	"verticalHudOffset": 0,
+	"iconHudPeekAllMoves": true,
+	"iconHud": true,
+	"standAuras": true,
+	"disableNarrator": true,
+	"timeEraseShader": true,
+	"epitaphOverlay": true
+}

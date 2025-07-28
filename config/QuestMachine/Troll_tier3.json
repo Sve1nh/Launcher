@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contract_with_meat",
+  "ConvertTo": "quest_machine:contract_2",
+  "ContractName": "\u00A75The Troll",
+  "Description": "Kill the Troll",
+  "Lore": "There is a troll cave somewhere around here. Find the cave and deal with the Troll.",
+  "ContractType": "overworld_boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "quest_machine:troll_hide_ancient",
+  "TargetType": "",
+  "TargetRoom": "",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 120,
+  "MaxPayment": 200,
+  "DungeonType": "",
+  "DungeonDifficulty": 0,
+  "BossEntity": "bigboss:troll_tier_3"
+}

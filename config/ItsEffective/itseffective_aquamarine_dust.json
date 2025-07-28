@@ -1,0 +1,9 @@
+{
+  "ComponentType": "modifier",
+  "LevelMod": -1,
+  "MaxLevel": 5,
+  "TimeMult": 0.8,
+  "disableDestabilisation": true,
+  "DestabilisationMod": -3,
+  "RequiredSkill": 6
+}

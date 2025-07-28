@@ -1,0 +1,22 @@
+{
+  "renderingMaterial": "littlemore:palachiteingot",
+  "isSimple": false,
+  "smithingSkill": 6,
+  "positions": 8,
+  "pos_1": "littlemore:palachitesword",
+  "pos_1_cost": 2,
+  "pos_2": "littlemore:palachitepickaxe",
+  "pos_2_cost": 3,
+  "pos_3": "littlemore:palachiteaxe",
+  "pos_3_cost": 3,
+  "pos_4": "littlemore:palachiteshovel",
+  "pos_4_cost": 1,
+  "pos_5": "littlemore:palachitearmor_helmet",
+  "pos_5_cost": 5,
+  "pos_6": "littlemore:palachitearmor_chestplate",
+  "pos_6_cost": 8,
+  "pos_7": "littlemore:palachitearmor_leggings",
+  "pos_7_cost": 7,
+  "pos_8": "littlemore:palachitearmor_boots",
+  "pos_8_cost": 4
+}

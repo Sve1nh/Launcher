@@ -1,0 +1,22 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:stabilisationpotion; itseffective:stabilisationthrowablepotion;",
+  "itseffective:stabilisationpotion": {
+    "ResultItem": "itseffective:starsightpotion",
+    "Effect": "itseffective:starsight",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 10
+  },
+  "itseffective:stabilisationthrowablepotion": {
+    "ResultItem": "itseffective:starsightthrowablepotion",
+    "Effect": "itseffective:starsight",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 10
+  }
+}

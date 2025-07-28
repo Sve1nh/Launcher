@@ -1,0 +1,108 @@
+{
+  "ObjectsCount": 21,
+  "Object1": {
+    "renderedItem": "littlemore:copperarmor_chestplate",
+    "name": "",
+    "slot": "0"
+  },
+  "Object2": {
+    "renderedItem": "littlemore:needleborarmor_chestplate",
+    "name": "",
+    "slot": "1"
+  },
+  "Object3": {
+    "renderedItem": "littlemore:smithersilkarmor_chestplate",
+    "name": "",
+    "slot": "2"
+  },
+  "Object4": {
+    "renderedItem": "littlemore:bronzearmor_chestplate",
+    "name": "",
+    "slot": "9"
+  },
+  "Object5": {
+    "renderedItem": "littlemore:ironarmor_chestplate",
+    "name": "",
+    "slot": "18"
+  },
+  "Object6": {
+    "renderedItem": "littlemore:forkeritearmor_chestplate",
+    "name": "",
+    "slot": "27"
+  },
+  "Object7": {
+    "renderedItem": "littlemore:oksaarmor_chestplate",
+    "name": "",
+    "slot": "28"
+  },
+  "Object8": {
+    "renderedItem": "littlemore:dalonarmor_chestplate",
+    "name": "",
+    "slot": "36"
+  },
+  "Object9": {
+    "renderedItem": "littlemore:steelarmor_chestplate",
+    "name": "",
+    "slot": "37"
+  },
+  "Object10": {
+    "renderedItem": "littlemore:nicktonarmor_chestplate",
+    "name": "",
+    "slot": "45"
+  },
+  "Object11": {
+    "renderedItem": "littlemore:epressarmor_chestplate",
+    "name": "",
+    "slot": "46"
+  },
+  "Object12": {
+    "renderedItem": "littlemore:steelsword",
+    "name": "",
+    "slot": "49"
+  },
+  "Object13": {
+    "renderedItem": "littlemore:palachitearmor_chestplate",
+    "name": "",
+    "slot": "54"
+  },
+  "Object14": {
+    "renderedItem": "littlemore:kianorarmor_chestplate",
+    "name": "",
+    "slot": "55"
+  },
+  "Object15": {
+    "renderedItem": "littlemore:broutarmor_chestplate",
+    "name": "",
+    "slot": "56"
+  },
+  "Object16": {
+    "renderedItem": "littlemore:bastrumarmor_chestplate",
+    "name": "",
+    "slot": "63"
+  },
+  "Object17": {
+    "renderedItem": "littlemore:diswixarmor_chestplate",
+    "name": "",
+    "slot": "64"
+  },
+  "Object18": {
+    "renderedItem": "littlemore:swordelonarmor_chestplate",
+    "name": "",
+    "slot": "72"
+  },
+  "Object19": {
+    "renderedItem": "littlemore:malenturnarmor_chestplate",
+    "name": "",
+    "slot": "81"
+  },
+  "Object20": {
+    "renderedItem": "littlemore:zaplatarmor_chestplate",
+    "name": "",
+    "slot": "90"
+  },
+  "Object21": {
+    "renderedItem": "littlemore:diswixsword",
+    "name": "",
+    "slot": "94"
+  }
+}

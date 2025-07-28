@@ -1,0 +1,113 @@
+{
+  "ObjectsCount": 22,
+  "Object1": {
+    "renderedItem": "littlemore:copperpickaxe",
+    "name": "",
+    "slot": "0"
+  },
+  "Object2": {
+    "renderedItem": "littlemore:bronzepickaxe",
+    "name": "",
+    "slot": "1"
+  },
+  "Object3": {
+    "renderedItem": "littlemore:needleborpickaxe",
+    "name": "",
+    "slot": "2"
+  },
+  "Object4": {
+    "renderedItem": "littlemore:smithersilkpickaxe",
+    "name": "",
+    "slot": "3"
+  },
+  "Object5": {
+    "renderedItem": "littlemore:goldpickaxe",
+    "name": "",
+    "slot": "9"
+  },
+  "Object6": {
+    "renderedItem": "littlemore:ironpickaxe",
+    "name": "",
+    "slot": "18"
+  },
+  "Object7": {
+    "renderedItem": "littlemore:oksapickaxe",
+    "name": "",
+    "slot": "19"
+  },
+  "Object8": {
+    "renderedItem": "littlemore:dalonpickaxe",
+    "name": "",
+    "slot": "27"
+  },
+  "Object9": {
+    "renderedItem": "littlemore:steelpickaxe",
+    "name": "",
+    "slot": "36"
+  },
+  "Object10": {
+    "renderedItem": "littlemore:forkeritepickaxe",
+    "name": "",
+    "slot": "37"
+  },
+  "Object11": {
+    "renderedItem": "littlemore:nicktonpickaxe",
+    "name": "",
+    "slot": "45"
+  },
+  "Object12": {
+    "renderedItem": "littlemore:epresspickaxe",
+    "name": "",
+    "slot": "46"
+  },
+  "Object13": {
+    "renderedItem": "littlemore:forkeritearmor_chestplate",
+    "name": "",
+    "slot": "48"
+  },
+  "Object14": {
+    "renderedItem": "littlemore:bastrumpickaxe",
+    "name": "",
+    "slot": "54"
+  },
+  "Object15": {
+    "renderedItem": "littlemore:palachitepickaxe",
+    "name": "",
+    "slot": "56"
+  },
+  "Object16": {
+    "renderedItem": "littlemore:diswixpickaxe",
+    "name": "",
+    "slot": "55"
+  },
+  "Object17": {
+    "renderedItem": "littlemore:broutpickaxe",
+    "name": "",
+    "slot": "63"
+  },
+  "Object18": {
+    "renderedItem": "littlemore:kianorpickaxe",
+    "name": "",
+    "slot": "64"
+  },
+  "Object19": {
+    "renderedItem": "littlemore:malenturnpickaxe",
+    "name": "",
+    "slot": "72"
+  },
+  "Object20": {
+    "renderedItem": "littlemore:swordelonpickaxe",
+    "name": "",
+    "slot": "81"
+  },
+  "Object21": {
+    "renderedItem": "littlemore:zaplatpickaxe",
+    "name": "",
+    "slot": "90"
+  },
+  "Object22": {
+    "renderedItem": "littlemore:kianorarmor_chestplate",
+    "name": "",
+    "slot": "93"
+  }
+}

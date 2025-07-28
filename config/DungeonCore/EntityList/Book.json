@@ -1,0 +1,55 @@
+{
+  "Tier1": {
+    "Enters": 2,
+    "Mob1": "bigboss:book_default_1",
+    "Mob2": "bigboss:book_default_2"
+  },
+  "Tier2": {
+    "Enters": 6,
+	"Mob1": "bigboss:book_default_1",
+    "Mob2": "bigboss:book_default_2",
+    "Mob3": "bigboss:book_default_3",
+	"Mob4": "bigboss:book_short_distance",
+    "Mob5": "bigboss:book_rush",
+    "Mob6": "bigboss:book_aspiration"
+  },
+  "Tier3": {
+    "Enters": 8,
+	"Mob1": "bigboss:book_default_1",
+    "Mob2": "bigboss:book_default_2",
+    "Mob3": "bigboss:book_default_3",
+	"Mob4": "bigboss:book_short_distance",
+    "Mob5": "bigboss:book_rush",
+    "Mob6": "bigboss:book_dworfism_sigil",
+    "Mob7": "bigboss:book_masters_hand",
+    "Mob8": "bigboss:book_aspiration"
+  },
+  "Tier4": {
+    "Enters": 10,
+    "Mob1": "bigboss:book_default_2",
+    "Mob2": "bigboss:book_default_3",
+	"Mob3": "bigboss:book_short_distance",
+    "Mob4": "bigboss:book_rush",
+    "Mob5": "bigboss:book_dworfism_sigil",
+    "Mob6": "bigboss:book_masters_hand",
+	"Mob7": "bigboss:book_haste",
+	"Mob8": "bigboss:book_generosity",
+	"Mob9": "bigboss:book_rivers_of_gold",
+    "Mob10": "bigboss:book_aspiration"
+  },
+  "Tier5": {
+    "Enters": 12,
+    "Mob1": "bigboss:book_default_2",
+    "Mob2": "bigboss:book_default_3",
+	"Mob3": "bigboss:book_short_distance",
+    "Mob4": "bigboss:book_rush",
+    "Mob5": "bigboss:book_dworfism_sigil",
+    "Mob6": "bigboss:book_masters_hand",
+	"Mob7": "bigboss:book_haste",
+	"Mob8": "bigboss:book_generousity",
+	"Mob9": "bigboss:book_rivers_of_gold",
+	"Mob10": "bigboss:book_highest_quality",
+	"Mob11": "bigboss:book_the_last_part",
+    "Mob12": "bigboss:book_aspiration"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:speedpotion; itseffective:speedthrowablepotion;",
+  "itseffective:speedpotion": {
+    "ResultItem": "itseffective:hastepotion",
+    "Effect": "minecraft:haste",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 7
+  },
+  "itseffective:speedthrowablepotion": {
+    "ResultItem": "itseffective:hastethrowablepotion",
+    "Effect": "minecraft:haste",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 7
+  }
+}

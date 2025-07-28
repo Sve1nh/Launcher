@@ -1,0 +1,11 @@
+{
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "gleamns:the_last_part",
+  "TargetType": "",
+  "TargetRoom": "",
+  "DungeonType": "crypt",
+  "DungeonDifficulty": 5,
+  "BossEntity": "bigboss:priest_tier_5"
+}

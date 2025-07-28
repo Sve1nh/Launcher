@@ -1,0 +1,22 @@
+{
+  "Tier1": {
+    "Enters": 1,
+    "LootTable1": "dungeon_core:sea_1"
+  },
+  "Tier2": {
+    "Enters": 1,
+    "LootTable1": "dungeon_core:sea_2"
+  },
+  "Tier3": {
+    "Enters": 1,
+    "LootTable1": "dungeon_core:sea_3"
+  },
+  "Tier4": {
+    "Enters": 1,
+    "LootTable1": "dungeon_core:sea_4"
+  },
+  "Tier5": {
+    "Enters": 1,
+    "LootTable1": "dungeon_core:sea_5"
+  }
+}

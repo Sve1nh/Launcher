@@ -1,0 +1,337 @@
+{
+  "profession": "minecraft:librarian",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:enchanted_book",
+        "amount": 1,
+        "priceModifier": 0,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 2
+          }
+        ],
+        "blacklistedEnchantments": [
+          "minecraft:mending",
+          "minecraft:soul_speed",
+          "minecraft:swift_sneak",
+          "minecraft:silk_touch",
+          "gleamns:quality",
+          "gleamns:curse_of_unworthiness",
+          "gleamns:curse_of_fragility",
+          "gleamns:curse_of_futility",
+          "gleamns:curse_of_greed",
+          "gleamns:curse_of_waste"
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 32,
+        "priceModifier": 1
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:book",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 3,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:librarian_enchanted_book_for_emerald_and_book"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:enchanted_book",
+        "amount": 1,
+        "priceModifier": 0,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 2
+          }
+        ],
+        "blacklistedEnchantments": [
+          "minecraft:mending",
+          "minecraft:soul_speed",
+          "minecraft:swift_sneak",
+          "minecraft:silk_touch",
+          "gleamns:quality",
+          "gleamns:curse_of_unworthiness",
+          "gleamns:curse_of_fragility",
+          "gleamns:curse_of_futility",
+          "gleamns:curse_of_greed",
+          "gleamns:curse_of_waste"
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 28,
+        "priceModifier": 1
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:book",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 3,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:librarian_enchanted_book_for_emerald_and_book"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:enchanted_book",
+        "amount": 1,
+        "priceModifier": 0,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 2
+          }
+        ],
+        "blacklistedEnchantments": [
+          "minecraft:mending",
+          "minecraft:soul_speed",
+          "minecraft:swift_sneak",
+          "minecraft:silk_touch",
+          "gleamns:quality",
+          "gleamns:curse_of_unworthiness",
+          "gleamns:curse_of_fragility",
+          "gleamns:curse_of_futility",
+          "gleamns:curse_of_greed",
+          "gleamns:curse_of_waste"
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 24,
+        "priceModifier": 1
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:book",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 3,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_enchanted_book_for_emerald_and_book"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:enchanted_book",
+        "amount": 1,
+        "priceModifier": 0,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 2
+          }
+        ],
+        "blacklistedEnchantments": [
+          "minecraft:mending",
+          "minecraft:soul_speed",
+          "minecraft:swift_sneak",
+          "minecraft:silk_touch",
+          "gleamns:quality",
+          "gleamns:curse_of_unworthiness",
+          "gleamns:curse_of_fragility",
+          "gleamns:curse_of_futility",
+          "gleamns:curse_of_greed",
+          "gleamns:curse_of_waste"
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 20,
+        "priceModifier": 1
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:book",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 3,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:librarian_enchanted_book_for_emerald_and_book"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:paper",
+        "amount": 24,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:librarian_emerald_for_paper"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bookshelf",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 9,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:librarian_bookshelf_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:book",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:librarian_emerald_for_book"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:glass_pane",
+        "amount": 12,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:librarian_emerald_for_glass_pane"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:lantern",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_lantern_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:feather",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_emerald_for_feather"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:clock",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 6,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:librarian_clock_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:writable_book",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 6,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:librarian_emerald_for_writable_book"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:name_tag",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 5,
+        "priceModifier": 0
+      },
+      "tradeExp": 6,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:librarian_name_tag_for_emerald"
+    }
+  ]
+}

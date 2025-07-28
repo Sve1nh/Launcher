@@ -1,0 +1,11 @@
+{
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "",
+  "TargetType": "",
+  "TargetRoom": "",
+  "DungeonType": "mine",
+  "DungeonDifficulty": 1,
+  "BossEntity": ""
+}

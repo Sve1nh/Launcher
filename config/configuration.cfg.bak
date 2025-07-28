@@ -1,0 +1,8 @@
+# TLauncher configuration file
+# Created in Legacy 1.58
+settings.version=3
+login.account=TestPlayer
+# Don't show ads:
+gui.notice.ad_youtube=false
+gui.notice.ad_server=false
+gui.notice.ad_other=false

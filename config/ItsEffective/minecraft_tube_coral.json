@@ -1,0 +1,13 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:concentrated_essense;",
+  "itseffective:concentrated_essense": {
+    "ResultItem": "itseffective:waterbreathingpotion",
+    "Effect": "minecraft:water_breathing",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 6
+  }
+}

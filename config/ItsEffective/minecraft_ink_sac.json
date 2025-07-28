@@ -1,0 +1,13 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:concentrated_essense;",
+  "itseffective:concentrated_essense": {
+    "ResultItem": "itseffective:blindnesspotion",
+    "Effect": "minecraft:blindness",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 6
+  }
+}

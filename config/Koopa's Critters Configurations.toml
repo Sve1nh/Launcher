@@ -1,0 +1,7 @@
+
+[NaturalGeneratingFeatures]
+	#Enable or Disable Kopje Trees from naturally spawning (True by default)
+	SpawnKopjeTree = true
+	#Enable or Disable Termite Mounds from naturally spawning (True by default)
+	SpawnTermiteMounds = true
+

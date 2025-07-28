@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contractwithkey",
+  "ConvertTo": "quest_machine:contract",
+  "ContractName": "\u00A77Elevator",
+  "Description": "Destroy the elvator",
+  "Lore": "Destroy the Elevator in the mines and find elevator parts.",
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "quest_machine:elevator_part_1",
+  "TargetType": "",
+  "TargetRoom": "",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 5,
+  "MaxPayment": 10,
+  "DungeonType": "mine",
+  "DungeonDifficulty": 1,
+  "BossEntity": "bigboss:elevator_tier_1"
+}

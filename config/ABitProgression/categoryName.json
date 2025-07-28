@@ -1,0 +1,8 @@
+{
+  "ObjectsCount": 1,
+  "Object1": {
+    "renderedItem": "item",
+    "name": "itemName",
+    "slot": "0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Tier1": {
+    "Enters": 2,
+    "Mob1": "minecraft:zombie",
+    "Mob2": "minecraft:skeleton"
+  },
+  "Tier2": {
+    "Enters": 2,
+    "Mob1": "minecraft:zombie",
+    "Mob2": "minecraft:skeleton"
+  }
+}

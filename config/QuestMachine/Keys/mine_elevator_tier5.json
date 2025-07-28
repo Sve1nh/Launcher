@@ -1,0 +1,11 @@
+{
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "progression:totem_of_reincarnation",
+  "TargetType": "",
+  "TargetRoom": "",
+  "DungeonType": "mine",
+  "DungeonDifficulty": 5,
+  "BossEntity": "bigboss:elevator_tier_5"
+}

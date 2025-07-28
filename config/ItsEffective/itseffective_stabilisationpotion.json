@@ -1,0 +1,31 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:nightvisionpotion; itseffective:nightvisionthrowablepotion; itseffective:smoke_bomb_empty;",
+  "itseffective:nightvisionpotion": {
+    "ResultItem": "itseffective:starsightpotion",
+    "Effect": "itseffective:starsight",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DenightvisionMod": 0,
+    "RequiredSkill": 10
+  },
+  "itseffective:nightvisionthrowablepotion": {
+    "ResultItem": "itseffective:starsightthrowablepotion",
+    "Effect": "itseffective:starsight",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DenightvisionMod": 0,
+    "RequiredSkill": 10
+  },
+  "itseffective:smoke_bomb_empty": {
+    "ResultItem": "itseffective:smoke_bomb_stabilisation",
+    "Effect": "Stabilisation Cloud",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 0,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 3
+  }
+}

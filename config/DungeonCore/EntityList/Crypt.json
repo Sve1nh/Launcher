@@ -1,0 +1,39 @@
+{
+  "Tier1": {
+    "Enters": 3,
+    "Mob1": "bigboss:skeleton_tier_1",
+    "Mob2": "bigboss:skeleton_archer_tier_1",
+	"Mob3": "bigboss:zombie_tier_1"
+  },
+  "Tier2": {
+    "Enters": 4,
+    "Mob1": "bigboss:skeleton_swordsman_tier_2",
+    "Mob2": "bigboss:skeleton_archer_tier_2",
+    "Mob3": "bigboss:zombie_swordsman_tier_2",
+    "Mob4": "bigboss:zombie_spearman_tier_2"
+  },
+  "Tier3": {
+    "Enters": 5,
+    "Mob1": "bigboss:skeleton_swordsman_tier_3",
+    "Mob2": "bigboss:skeleton_archer_tier_3",
+    "Mob3": "bigboss:zombie_axeman_tier_3",
+    "Mob4": "bigboss:zombie_swordsman_tier_3",
+    "Mob5": "bigboss:zombie_spearman_tier_3"
+  },
+  "Tier4": {
+    "Enters": 5,
+    "Mob1": "bigboss:skeleton_swordsman_tier_4",
+    "Mob2": "bigboss:skeleton_archer_tier_4",
+    "Mob3": "bigboss:zombie_axeman_tier_4",
+    "Mob4": "bigboss:zombie_swordsman_tier_4",
+    "Mob5": "bigboss:zombie_spearman_tier_4"
+  },
+  "Tier5": {
+    "Enters": 5,
+    "Mob1": "bigboss:skeleton_swordsman_tier_5",
+    "Mob2": "bigboss:skeleton_archer_tier_5",
+    "Mob3": "bigboss:zombie_axeman_tier_5",
+    "Mob4": "bigboss:zombie_swordsman_tier_5",
+    "Mob5": "bigboss:zombie_spearman_tier_5"
+  }
+}

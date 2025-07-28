@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contract",
+  "ConvertTo": "",
+  "ContractName": "\u00A77Brewmaster",
+  "Description": "Bring required ingridients",
+  "Lore": "I need some special potion ingridients. Can you help me?",
+  "ContractType": "collect",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 3,
+  "QuestItem": "tag;quest_machine:alchemy_quest_tier1",
+  "TargetType": "",
+  "TargetRoom": "",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 1,
+  "MaxPayment": 3,
+  "DungeonType": "",
+  "DungeonDifficulty": 0,
+  "BossEntity": ""
+}

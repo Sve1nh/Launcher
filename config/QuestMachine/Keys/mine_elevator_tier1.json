@@ -1,0 +1,11 @@
+{
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "littlemore:ironpickaxe",
+  "TargetType": "",
+  "TargetRoom": "",
+  "DungeonType": "mine",
+  "DungeonDifficulty": 1,
+  "BossEntity": "bigboss:elevator_tier_1"
+}

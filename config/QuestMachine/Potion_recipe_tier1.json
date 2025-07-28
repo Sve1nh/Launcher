@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contractwithkey",
+  "ConvertTo": "quest_machine:contract",
+  "ContractName": "\u00A77Potion recipe",
+  "Description": "Find ancient Potion recipe",
+  "Lore": "I need to find an ancient Potion recipe in the smokehold.",
+  "ContractType": "find",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "quest_machine:potion_recipe_1",
+  "TargetType": "the_maze:grimwood_dungeon_box",
+  "TargetRoom": "storage",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 2,
+  "MaxPayment": 4,
+  "DungeonType": "smokehold",
+  "DungeonDifficulty": 1,
+  "BossEntity": ""
+}

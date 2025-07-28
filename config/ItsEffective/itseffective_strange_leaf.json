@@ -1,0 +1,157 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "minecraft:potion; itseffective:regenerationpotion; itseffective:healingessense; itseffective:speedpotion; itseffective:jumpboostpotion; itseffective:purificationpotion; itseffective:stabilisationpotion; itseffective:slownesspotion; itseffective:miningfatiguepotion; itseffective:regenerationthrowablepotion; itseffective:healingessensethrowable; itseffective:speedthrowablepotion; itseffective:jumpboostthrowablepotion; itseffective:purificationthrowablepotion; itseffective:stabilisationthrowablepotion; itseffective:slownessthrowablepotion; itseffective:miningfatiguethrowablepotion;",
+  "minecraft:potion": {
+    "ResultItem": "itseffective:strange_tincture",
+    "Effect": "minecraft:regeneration",
+    "LevelMod": 0,
+    "TimeMod": 10,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 2
+  },
+  "itseffective:regenerationpotion": {
+    "ResultItem": "itseffective:healingessense",
+    "Effect": "minecraft:instant_health",
+    "LevelMod": 0,
+    "TimeMod": 1,
+    "TimeMult": 0.01,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 5
+  },
+  "itseffective:healingessense": {
+    "ResultItem": "itseffective:regenerationpotion",
+    "Effect": "minecraft:regeneration",
+    "LevelMod": 0,
+    "TimeMod": 59,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 4
+  },
+  "itseffective:speedpotion": {
+    "ResultItem": "itseffective:jumpboostpotion",
+    "Effect": "minecraft:jump_boost",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 3
+  },
+  "itseffective:jumpboostpotion": {
+    "ResultItem": "itseffective:speedpotion",
+    "Effect": "minecraft:speed",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 3
+  },
+  "itseffective:purificationpotion": {
+    "ResultItem": "itseffective:stabilisationpotion",
+    "Effect": "itseffective:stabilisation",
+    "LevelMod": 0,
+    "TimeMod": 59,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 5
+  },
+  "itseffective:stabilisationpotion": {
+    "ResultItem": "itseffective:purificationpotion",
+    "Effect": "itseffective:purification",
+    "LevelMod": 0,
+    "TimeMod": 1,
+    "TimeMult": 0.01,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 6
+  },
+  "itseffective:slownesspotion": {
+    "ResultItem": "itseffective:miningfatiguepotion",
+    "Effect": "minecraft:mining_fatigue",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 6
+  },
+  "itseffective:miningfatiguepotion": {
+    "ResultItem": "itseffective:slownesspotion",
+    "Effect": "minecraft:slowness",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 3
+  },
+  "itseffective:regenerationthrowablepotion": {
+    "ResultItem": "itseffective:healingessensethrowable",
+    "Effect": "minecraft:instant_health",
+    "LevelMod": 0,
+    "TimeMod": 1,
+    "TimeMult": 0.01,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 5
+  },
+  "itseffective:healingessensethrowable": {
+    "ResultItem": "itseffective:regenerationthrowablepotion",
+    "Effect": "minecraft:regeneration",
+    "LevelMod": 0,
+    "TimeMod": 59,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 4
+  },
+  "itseffective:speedthrowablepotion": {
+    "ResultItem": "itseffective:jumpboostthrowablepotion",
+    "Effect": "minecraft:jump_boost",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 3
+  },
+  "itseffective:jumpboostthrowablepotion": {
+    "ResultItem": "itseffective:speedthrowablepotion",
+    "Effect": "minecraft:speed",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 3
+  },
+  "itseffective:purificationthrowablepotion": {
+    "ResultItem": "itseffective:stabilisationthrowablepotion",
+    "Effect": "itseffective:stabilisation",
+    "LevelMod": 0,
+    "TimeMod": 59,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 5
+  },
+  "itseffective:stabilisationthrowablepotion": {
+    "ResultItem": "itseffective:purificationthrowablepotion",
+    "Effect": "itseffective:purification",
+    "LevelMod": 0,
+    "TimeMod": 1,
+    "TimeMult": 0.01,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 6
+  },
+  "itseffective:slownessthrowablepotion": {
+    "ResultItem": "itseffective:miningfatiguethrowablepotion",
+    "Effect": "minecraft:mining_fatigue",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 6
+  },
+  "itseffective:miningfatiguethrowablepotion": {
+    "ResultItem": "itseffective:slownessthrowablepotion",
+    "Effect": "minecraft:slowness",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 3
+  }
+}

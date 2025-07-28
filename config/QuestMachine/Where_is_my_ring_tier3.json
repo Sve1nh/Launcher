@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contractwithkey",
+  "ConvertTo": "quest_machine:contract",
+  "ContractName": "\u00A73Where is my rings?",
+  "Description": "Collect all rings",
+  "Lore": "I lost some rings in the crypt. Can you help me and bring it back?",
+  "ContractType": "find",
+  "MinTargetCount": 2,
+  "MaxTargetCount": 3,
+  "QuestItem": "quest_machine:golden_ring",
+  "TargetType": "the_maze:grimwood_dungeon_box",
+  "TargetRoom": "grave",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 24,
+  "MaxPayment": 52,
+  "DungeonType": "crypt",
+  "DungeonDifficulty": 3,
+  "BossEntity": ""
+}

@@ -1,0 +1,22 @@
+{
+  "renderingMaterial": "littlemore:ironingot",
+  "isSimple": true,
+  "smithingSkill": 2,
+  "positions": 8,
+  "pos_1": "littlemore:ironsword",
+  "pos_1_cost": 2,
+  "pos_2": "littlemore:ironpickaxe",
+  "pos_2_cost": 3,
+  "pos_3": "littlemore:ironaxe",
+  "pos_3_cost": 3,
+  "pos_4": "littlemore:ironshovel",
+  "pos_4_cost": 1,
+  "pos_5": "littlemore:ironarmor_helmet",
+  "pos_5_cost": 5,
+  "pos_6": "littlemore:ironarmor_chestplate",
+  "pos_6_cost": 8,
+  "pos_7": "littlemore:ironarmor_leggings",
+  "pos_7_cost": 7,
+  "pos_8": "littlemore:ironarmor_boots",
+  "pos_8_cost": 4
+}

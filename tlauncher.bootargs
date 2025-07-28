@@ -1,0 +1,1 @@
+-Dtlauncher.bootstrap.targetJar=bin/legacy.jar -Dtlauncher.bootstrap.targetLibFolder=bin/lib/

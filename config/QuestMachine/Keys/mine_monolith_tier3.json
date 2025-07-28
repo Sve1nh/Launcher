@@ -1,0 +1,11 @@
+{
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "gleamns:monolithism_sigil",
+  "TargetType": "",
+  "TargetRoom": "",
+  "DungeonType": "mine",
+  "DungeonDifficulty": 3,
+  "BossEntity": "bigboss:monolith_tier_3"
+}

@@ -1,0 +1,34 @@
+{
+  "Tier1": {
+    "Enters": 3,
+    "LootTable1": "dungeon_core:equipment_1_copper",
+	"LootTable2": "dungeon_core:equipment_1_tin",
+	"LootTable3": "dungeon_core:equipment_1_gold"
+  },
+  "Tier2": {
+    "Enters": 2,
+    "LootTable1": "dungeon_core:equipment_2_bronze",
+	"LootTable2": "dungeon_core:equipment_2_iron"
+  },
+  "Tier3": {
+    "Enters": 4,
+    "LootTable1": "dungeon_core:equipment_3_dalon",
+	"LootTable2": "dungeon_core:equipment_3_forkerite",
+	"LootTable3": "dungeon_core:equipment_3_oksa",
+	"LootTable4": "dungeon_core:equipment_3_steel"
+  },
+  "Tier4": {
+    "Enters": 5,
+    "LootTable1": "dungeon_core:equipment_4_dalon",
+	"LootTable2": "dungeon_core:equipment_4_forkerite",
+	"LootTable3": "dungeon_core:equipment_4_oksa",
+	"LootTable4": "dungeon_core:equipment_4_steel",
+	"LootTable5": "dungeon_core:equipment_4_epress"
+  },
+  "Tier5": {
+    "Enters": 3,
+    "LootTable1": "dungeon_core:equipment_5_brout",
+	"LootTable2": "dungeon_core:equipment_5_palachite",
+	"LootTable3": "dungeon_core:equipment_5_kianor"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contractwithkey",
+  "ConvertTo": "quest_machine:contract",
+  "ContractName": "\u00A72Necromancer",
+  "Description": "Kill the necromancer",
+  "Lore": "Kill the necromancer in the crypt and find necronomicon. Don't forget range weapons.",
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "quest_machine:necronomicon_2",
+  "TargetType": "",
+  "TargetRoom": "",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 15,
+  "MaxPayment": 30,
+  "DungeonType": "crypt",
+  "DungeonDifficulty": 2,
+  "BossEntity": "bigboss:necromancer_tier_2"
+}

@@ -1,0 +1,241 @@
+{
+  "profession": "minecraft:cleric",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:rotten_flesh",
+        "amount": 32,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:cleric_emerald_for_rotten_flesh"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:redstone",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:cleric_redstone_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "littlemore:goldingot",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:cleric_emerald_for_goldingot"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:amethyst_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:cleric_amethyst_shard_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:glass_bottle",
+        "amount": 9,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:cleric_emerald_for_glass_bottle"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:fermented_spider_eye",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:cleric_emerald_for_fermented_spider_eye"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:glowstone",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:cleric_glowstone_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:slime_ball",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:cleric_slime_ball_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:ender_pearl",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 5,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:cleric_ender_pearl_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:rabbit_foot",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:cleric_emerald_for_rabbit_foot"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:scute",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:cleric_emerald_for_scute"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:nether_wart",
+        "amount": 24,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:cleric_emerald_for_nether_wart"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:experience_bottle",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:cleric_experience_bottle_for_emerald"
+    }
+  ]
+}

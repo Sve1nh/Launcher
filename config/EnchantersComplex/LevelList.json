@@ -1,0 +1,13 @@
+{
+  "Level0": "tier1; tier2; tier3; tier4; tier5; gleamns:short_distanse; gleamns:rush; gleamns:haste; gleamns:dworfism_sigil; gleamns:highest_quality; gleamns:monolithism_sigil; gleamns:generosity; gleamns:rivers_of_gold; gleamns:masters_hand; gleamns:the_last_part; gleamns:aspiration;",
+  "Level1": "tier2; tier3; tier4; tier5; gleamns:short_distanse; gleamns:rush; gleamns:haste; gleamns:dworfism_sigil; gleamns:highest_quality; gleamns:monolithism_sigil; gleamns:generosity; gleamns:rivers_of_gold; gleamns:masters_hand; gleamns:the_last_part; gleamns:aspiration;",
+  "Level2": "tier3; tier4; tier5; gleamns:short_distanse; gleamns:rush; gleamns:haste; gleamns:dworfism_sigil; gleamns:highest_quality; gleamns:monolithism_sigil; gleamns:generosity; gleamns:rivers_of_gold; gleamns:masters_hand; gleamns:the_last_part; gleamns:aspiration;",
+  "Level3": "tier3; tier4; tier5; gleamns:rush; gleamns:haste; gleamns:dworfism_sigil; gleamns:highest_quality; gleamns:monolithism_sigil; gleamns:generosity; gleamns:rivers_of_gold; gleamns:masters_hand; gleamns:the_last_part; gleamns:aspiration;",
+  "Level4": "tier4; tier5; gleamns:haste; gleamns:dworfism_sigil; gleamns:highest_quality; gleamns:monolithism_sigil; gleamns:generosity; gleamns:rivers_of_gold; gleamns:masters_hand; gleamns:the_last_part; gleamns:aspiration;",
+  "Level5": "tier4; tier5; gleamns:haste; gleamns:dworfism_sigil; gleamns:highest_quality; gleamns:monolithism_sigil; gleamns:generosity; gleamns:rivers_of_gold; gleamns:the_last_part;",
+  "Level6": "tier5; gleamns:haste; gleamns:highest_quality; gleamns:monolithism_sigil; gleamns:generosity; gleamns:rivers_of_gold; gleamns:the_last_part;",
+  "Level7": "tier5; gleamns:highest_quality; gleamns:generosity; gleamns:rivers_of_gold; gleamns:the_last_part;",
+  "Level8": "gleamns:highest_quality; gleamns:the_last_part;",
+  "Level9": "gleamns:the_last_part;",
+  "Level10": ""
+}

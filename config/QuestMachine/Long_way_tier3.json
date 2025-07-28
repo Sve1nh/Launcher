@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contract_flint_and_steel",
+  "ConvertTo": "",
+  "ContractName": "\u00A73Long way stranger",
+  "Description": "Ignite fire on signal tower",
+  "Lore": "There is an ancient signal tower somewhere around here. We need to Ignite the fire again!",
+  "ContractType": "interact",
+  "MinTargetCount": 3,
+  "MaxTargetCount": 3,
+  "QuestItem": "",
+  "TargetType": "quest_machine:signal_fire_unfired",
+  "TargetRoom": "",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 24,
+  "MaxPayment": 50,
+  "DungeonType": "",
+  "DungeonDifficulty": 0,
+  "BossEntity": ""
+}

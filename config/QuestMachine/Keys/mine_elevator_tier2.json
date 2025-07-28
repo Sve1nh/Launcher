@@ -1,0 +1,11 @@
+{
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "littlemore:dalonpickaxe",
+  "TargetType": "",
+  "TargetRoom": "",
+  "DungeonType": "mine",
+  "DungeonDifficulty": 2,
+  "BossEntity": "bigboss:elevator_tier_2"
+}

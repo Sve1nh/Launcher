@@ -1,0 +1,11 @@
+{
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "gleamns:rush",
+  "TargetType": "",
+  "TargetRoom": "",
+  "DungeonType": "crypt",
+  "DungeonDifficulty": 3,
+  "BossEntity": "bigboss:priest_tier_3"
+}

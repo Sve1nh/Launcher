@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contract",
+  "ConvertTo": "",
+  "ContractName": "\u00A77Just a bucket",
+  "Description": "Bring required equipment",
+  "Lore": "I need a bucket to water the crops. Can you find one?",
+  "ContractType": "collect",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "minecraft:water_bucket",
+  "TargetType": "",
+  "TargetRoom": "",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 1,
+  "MaxPayment": 3,
+  "DungeonType": "",
+  "DungeonDifficulty": 0,
+  "BossEntity": ""
+}

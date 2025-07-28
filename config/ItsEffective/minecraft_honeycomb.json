@@ -1,0 +1,13 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:sprucenut_tincture;",
+  "itseffective:sprucenut_tincture": {
+    "ResultItem": "itseffective:regenerationpotion",
+    "Effect": "minecraft:regeneration",
+    "LevelMod": 0,
+    "TimeMod": 50,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 4
+  }
+}

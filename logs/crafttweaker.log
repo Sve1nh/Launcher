@@ -1,0 +1,54 @@
+[19:44:17.798][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[19:44:17.861][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[19:44:17.977][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[19:44:17.981][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin jeitweaker:common
+[19:44:17.985][INFO][JEITweaker]: Identified JeiTweaker plugin 'jeitweaker:forge': loading scheduled
+[19:44:17.989][INFO][JEITweaker]: Identified JeiTweaker plugin 'jeitweaker:common': loading scheduled
+[19:44:18.027][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[19:44:18.028][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[19:44:18.044][INFO][JEITweaker]: JEITweaker Environmental Check: the combination of mods [jei] is fully supported
+[19:44:18.044][INFO][JEITweaker]: Running JeiTweaker plugin initialization
+[19:44:18.071][INFO][JEITweaker]: JeiTweaker plugin initialization completed successfully
+[19:44:19.729][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[19:44:19.731][INFO][CraftTweaker]: - 'aquaculture' at version '2.5.5'
+[19:44:19.731][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.57'
+[19:44:19.731][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.8'
+[19:44:19.731][INFO][CraftTweaker]: - 'jeitweaker' at version '8.0.6'
+[19:44:29.467][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[19:44:30.180][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[19:44:30.256][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[19:44:30.511][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[19:50:24.447][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[19:50:24.464][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[19:50:24.859][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[19:50:24.860][INFO][CraftTweaker-ZenCode]: Loading file 'script.zs' with priority 0
+[19:50:24.873][INFO][Script]: Hello world!
+[19:50:24.876][INFO][CraftTweaker]: Adding "Предмет недоступен для создания" to the tooltip for: <item:malum:processed_soulstone>
+[19:50:24.879][INFO][CraftTweaker]: Adding "Предмет недоступен для создания" to the tooltip for: <item:malum:raw_soulstone>
+[19:50:24.879][INFO][CraftTweaker]: Adding "Предмет недоступен для создания" to the tooltip for: <item:malum:spirit_altar>
+[19:50:24.879][INFO][CraftTweaker]: Adding "Предмет недоступен для создания" to the tooltip for: <item:malum:soul_stained_steel_ingot>
+[19:50:24.879][INFO][CraftTweaker]: Adding "Предмет недоступен для создания" to the tooltip for: <item:malum:encyclopedia_arcana>
+[19:50:24.879][INFO][CraftTweaker]: Adding "Предмет недоступен для создания" to the tooltip for: <item:minecraft:torch>
+[19:50:24.879][INFO][CraftTweaker]: Adding "Предмет недоступен для создания" to the tooltip for: <item:minecraft:soul_torch>
+[19:50:24.879][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[19:51:24.411][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[19:51:24.411][INFO][CraftTweaker-ZenCode]: Undoing previous actions
+[19:51:24.414][INFO][CraftTweaker]: Undoing addition of "Предмет недоступен для создания" to the tooltip for: <item:malum:processed_soulstone>
+[19:51:24.415][INFO][CraftTweaker]: Undoing addition of "Предмет недоступен для создания" to the tooltip for: <item:malum:raw_soulstone>
+[19:51:24.415][INFO][CraftTweaker]: Undoing addition of "Предмет недоступен для создания" to the tooltip for: <item:malum:spirit_altar>
+[19:51:24.415][INFO][CraftTweaker]: Undoing addition of "Предмет недоступен для создания" to the tooltip for: <item:malum:soul_stained_steel_ingot>
+[19:51:24.415][INFO][CraftTweaker]: Undoing addition of "Предмет недоступен для создания" to the tooltip for: <item:malum:encyclopedia_arcana>
+[19:51:24.415][INFO][CraftTweaker]: Undoing addition of "Предмет недоступен для создания" to the tooltip for: <item:minecraft:torch>
+[19:51:24.415][INFO][CraftTweaker]: Undoing addition of "Предмет недоступен для создания" to the tooltip for: <item:minecraft:soul_torch>
+[19:51:24.434][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[19:51:24.592][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[19:51:24.592][INFO][CraftTweaker-ZenCode]: Loading file 'script.zs' with priority 0
+[19:51:24.601][INFO][Script]: Hello world!
+[19:51:24.601][INFO][CraftTweaker]: Adding "Предмет недоступен для создания" to the tooltip for: <item:malum:processed_soulstone>
+[19:51:24.601][INFO][CraftTweaker]: Adding "Предмет недоступен для создания" to the tooltip for: <item:malum:raw_soulstone>
+[19:51:24.601][INFO][CraftTweaker]: Adding "Предмет недоступен для создания" to the tooltip for: <item:malum:spirit_altar>
+[19:51:24.601][INFO][CraftTweaker]: Adding "Предмет недоступен для создания" to the tooltip for: <item:malum:soul_stained_steel_ingot>
+[19:51:24.601][INFO][CraftTweaker]: Adding "Предмет недоступен для создания" to the tooltip for: <item:malum:encyclopedia_arcana>
+[19:51:24.601][INFO][CraftTweaker]: Adding "Предмет недоступен для создания" to the tooltip for: <item:minecraft:torch>
+[19:51:24.601][INFO][CraftTweaker]: Adding "Предмет недоступен для создания" to the tooltip for: <item:minecraft:soul_torch>
+[19:51:24.601][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully

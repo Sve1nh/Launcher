@@ -1,0 +1,138 @@
+{
+  "ObjectsCount": 27,
+  "Object1": {
+    "renderedItem": "littlemore:copperingot",
+    "name": "",
+    "slot": "0"
+  },
+  "Object2": {
+    "renderedItem": "littlemore:goldingot",
+    "name": "",
+    "slot": "1"
+  },
+  "Object3": {
+    "renderedItem": "littlemore:bronzeingot",
+    "name": "",
+    "slot": "9"
+  },
+  "Object4": {
+    "renderedItem": "progression:aquamarine",
+    "name": "\u00A79Unique",
+    "slot": "12"
+  },
+  "Object5": {
+    "renderedItem": "hightquality:alloying_furnace",
+    "name": "",
+    "slot": "13"
+  },
+  "Object6": {
+    "renderedItem": "littlemore:ironingot",
+    "name": "",
+    "slot": "18"
+  },
+  "Object7": {
+    "renderedItem": "littlemore:oksaingot",
+    "name": "",
+    "slot": "27"
+  },
+  "Object8": {
+    "renderedItem": "littlemore:forkeriteingot",
+    "name": "",
+    "slot": "28"
+  },
+  "Object9": {
+    "renderedItem": "littlemore:daloningot",
+    "name": "",
+    "slot": "36"
+  },
+  "Object10": {
+    "renderedItem": "littlemore:steelingot",
+    "name": "",
+    "slot": "37"
+  },
+  "Object11": {
+    "renderedItem": "hightquality:reforging_anvil",
+    "name": "",
+    "slot": "39"
+  },
+  "Object12": {
+    "renderedItem": "littlemore:nicktoningot",
+    "name": "",
+    "slot": "45"
+  },
+  "Object13": {
+    "renderedItem": "littlemore:epressingot",
+    "name": "",
+    "slot": "46"
+  },
+  "Object14": {
+    "renderedItem": "littlemore:needleboringot",
+    "name": "",
+    "slot": "47"
+  },
+  "Object15": {
+    "renderedItem": "littlemore:dalonarmor_chestplate",
+    "name": "",
+    "slot": "48"
+  },
+  "Object16": {
+    "renderedItem": "littlemore:palachiteingot",
+    "name": "",
+    "slot": "54"
+  },
+  "Object17": {
+    "renderedItem": "littlemore:kianoringot",
+    "name": "",
+    "slot": "55"
+  },
+  "Object18": {
+    "renderedItem": "littlemore:broutingot",
+    "name": "",
+    "slot": "56"
+  },
+  "Object19": {
+    "renderedItem": "progression:aquamarine",
+    "name": "\u00A75Epic",
+    "slot": "57"
+  },
+  "Object20": {
+    "renderedItem": "littlemore:bastrumingot",
+    "name": "",
+    "slot": "63"
+  },
+  "Object21": {
+    "renderedItem": "littlemore:diswixingot",
+    "name": "",
+    "slot": "64"
+  },
+  "Object22": {
+    "renderedItem": "littlemore:swordeloningot",
+    "name": "",
+    "slot": "72"
+  },
+  "Object23": {
+    "renderedItem": "littlemore:malenturningot",
+    "name": "",
+    "slot": "81"
+  },
+  "Object24": {
+    "renderedItem": "progression:aquamarine",
+    "name": "\u00A7cLegendary",
+    "slot": "84"
+  },
+  "Object25": {
+    "renderedItem": "littlemore:zaplatingot",
+    "name": "",
+    "slot": "90"
+  },
+  "Object26": {
+    "renderedItem": "littlemore:smithersilkingot",
+    "name": "",
+    "slot": "91"
+  },
+  "Object27": {
+    "renderedItem": "littlemore:palachitearmor_chestplate",
+    "name": "",
+    "slot": "93"
+  }
+}

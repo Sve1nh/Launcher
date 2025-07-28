@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contract",
+  "ConvertTo": "",
+  "ContractName": "\u00A75Brewmaster",
+  "Description": "Bring required potions",
+  "Lore": "I need some special potions. Can you help me?",
+  "ContractType": "collect",
+  "MinTargetCount": 5,
+  "MaxTargetCount": 10,
+  "QuestItem": "tag;quest_machine:alchemy_quest_tier4",
+  "TargetType": "",
+  "TargetRoom": "",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 32,
+  "MaxPayment": 64,
+  "DungeonType": "",
+  "DungeonDifficulty": 0,
+  "BossEntity": ""
+}

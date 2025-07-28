@@ -1,0 +1,11 @@
+{
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "progression:aquamarine_cluster",
+  "TargetType": "",
+  "TargetRoom": "",
+  "DungeonType": "crypt",
+  "DungeonDifficulty": 2,
+  "BossEntity": "bigboss:necromancer_tier_2"
+}

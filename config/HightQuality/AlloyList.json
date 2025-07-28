@@ -1,0 +1,9 @@
+{
+  "AlloysCount": 1,
+  "Alloy1": {
+    "result": "minecraft:netherite_ingot",
+    "partsCount": 2,
+    "part_1": "minecraft:gold_ingot",
+    "part_2": "minecraft:netherite_scrap"
+  }
+}

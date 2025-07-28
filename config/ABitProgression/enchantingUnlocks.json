@@ -1,0 +1,98 @@
+{
+  "ObjectsCount": 19,
+  "Object1": {
+    "renderedItem": "minecraft:book",
+    "name": "\u00A77Enchanting I",
+    "slot": "11"
+  },
+  "Object2": {
+    "renderedItem": "minecraft:book",
+    "name": "\u00A72Enchanting II",
+    "slot": "20"
+  },
+  "Object3": {
+    "renderedItem": "gleamns:short_distance",
+    "name": "",
+    "slot": "27"
+  },
+  "Object4": {
+    "renderedItem": "gleamns:rune_masters_table",
+    "name": "",
+    "slot": "29"
+  },
+  "Object5": {
+    "renderedItem": "gleamns:rush",
+    "name": "",
+    "slot": "36"
+  },
+  "Object6": {
+    "renderedItem": "minecraft:book",
+    "name": "\u00A73Enchanting III",
+    "slot": "38"
+  },
+  "Object7": {
+    "renderedItem": "gleamns:masters_hand",
+    "name": "",
+    "slot": "45"
+  },
+  "Object8": {
+    "renderedItem": "littlemore:nicktonarmor_chestplate",
+    "name": "",
+    "slot": "47"
+  },
+  "Object9": {
+    "renderedItem": "gleamns:dworfism_sigil",
+    "name": "",
+    "slot": "54"
+  },
+  "Object10": {
+    "renderedItem": "gleamns:aspiration",
+    "name": "",
+    "slot": "55"
+  },
+  "Object11": {
+    "renderedItem": "minecraft:book",
+    "name": "\u00A75Enchanting IV",
+    "slot": "56"
+  },
+  "Object12": {
+    "renderedItem": "gleamns:monolithism_sigil",
+    "name": "",
+    "slot": "63"
+  },
+  "Object13": {
+    "renderedItem": "gleamns:haste",
+    "name": "",
+    "slot": "64"
+  },
+  "Object14": {
+    "renderedItem": "gleamns:generosity",
+    "name": "",
+    "slot": "72"
+  },
+  "Object15": {
+    "renderedItem": "gleamns:rivers_of_gold",
+    "name": "",
+    "slot": "73"
+  },
+  "Object16": {
+    "renderedItem": "minecraft:book",
+    "name": "\u00A7cEnchanting V",
+    "slot": "74"
+  },
+  "Object17": {
+    "renderedItem": "gleamns:highest_quality",
+    "name": "",
+    "slot": "81"
+  },
+  "Object18": {
+    "renderedItem": "gleamns:the_last_part",
+    "name": "",
+    "slot": "90"
+  },
+  "Object19": {
+    "renderedItem": "littlemore:broutarmor_chestplate",
+    "name": "",
+    "slot": "92"
+  }
+}

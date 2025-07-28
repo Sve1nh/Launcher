@@ -1,0 +1,29 @@
+{
+  "Tier1": {
+    "Enters": 1,
+    "Mob1": "bigboss:fogman_tier_1"
+  },
+  "Tier2": {
+    "Enters": 2,
+    "Mob1": "bigboss:fogswordsman_tier_2",
+    "Mob2": "bigboss:foghammerman_tier_2"
+  },
+  "Tier3": {
+    "Enters": 3,
+    "Mob1": "bigboss:fogswordsman_tier_3",
+    "Mob2": "bigboss:foghammerman_tier_3",
+    "Mob3": "bigboss:fogspearman_tier_3"
+  },
+  "Tier4": {
+    "Enters": 3,
+    "Mob1": "bigboss:fogswordsman_tier_4",
+    "Mob2": "bigboss:foghammerman_tier_4",
+    "Mob3": "bigboss:fogspearman_tier_4"
+  },
+  "Tier5": {
+    "Enters": 3,
+    "Mob1": "bigboss:fogswordsman_tier_5",
+    "Mob2": "bigboss:foghammerman_tier_5",
+    "Mob3": "bigboss:fogspearman_tier_5"
+  }
+}

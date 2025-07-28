@@ -1,0 +1,292 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:speedpotion; itseffective:regenerationpotion; itseffective:slownesspotion; itseffective:poisonpotion; itseffective:warmingpotion; itseffective:fireresistancepotion; itseffective:nightvisionpotion; itseffective:blindnesspotion; itseffective:corruptedpotion; itseffective:stabilisationpotion; itseffective:hastepotion; itseffective:miningfatiguepotion; itseffective:invisibilitypotion; itseffective:glowingpotion; itseffective:strengthpotion; itseffective:weaknesspotion; itseffective:speedthrowablepotion; itseffective:regenerationthrowablepotion; itseffective:slownessthrowablepotion; itseffective:poisonthrowablepotion; itseffective:warmingthrowablepotion; itseffective:fireresistancethrowablepotion; itseffective:nightvisionthrowablepotion; itseffective:blindnessthrowablepotion; itseffective:corruptedthrowablepotion; itseffective:stabilisationthrowablepotion; itseffective:hastethrowablepotion; itseffective:miningfatiguethrowablepotion; itseffective:invisibilitythrowablepotion; itseffective:glowingthrowablepotion; itseffective:strengththrowablepotion; itseffective:weaknessthrowablepotion;",
+  "itseffective:speedpotion": {
+    "ResultItem": "itseffective:slownesspotion",
+    "Effect": "minecraft:slowness",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 3
+  },
+  "itseffective:slownesspotion": {
+    "ResultItem": "itseffective:speedpotion",
+    "Effect": "minecraft:speed",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 3
+  },
+  "itseffective:regenerationpotion": {
+    "ResultItem": "itseffective:poisonpotion",
+    "Effect": "minecraft:poison",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 5
+  },
+  "itseffective:poisonpotion": {
+    "ResultItem": "itseffective:regenerationpotion",
+    "Effect": "minecraft:regeneration",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 4
+  },
+  "itseffective:warmingpotion": {
+    "ResultItem": "itseffective:fireresistancepotion",
+    "Effect": "minecraft:fire_resistance",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 4
+  },
+  "itseffective:fireresistancepotion": {
+    "ResultItem": "itseffective:warmingpotion",
+    "Effect": "itseffective:warming",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 4
+  },
+  "itseffective:nightvisionpotion": {
+    "ResultItem": "itseffective:blindnesspotion",
+    "Effect": "minecraft:blindness",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 6
+  },
+  "itseffective:blindnesspotion": {
+    "ResultItem": "itseffective:nightvisionpotion",
+    "Effect": "minecraft:night_vision",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 3
+  },
+  "itseffective:corruptedpotion": {
+    "ResultItem": "itseffective:stabilisationpotion",
+    "Effect": "itseffective:stabilisation",
+    "LevelMod": 0,
+    "TimeMod": 59,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 5
+  },
+  "itseffective:stabilisationpotion": {
+    "ResultItem": "itseffective:corruptedpotion",
+    "Effect": "minecraft:instant_damage",
+    "LevelMod": 0,
+    "TimeMod": 1,
+    "TimeMult": 0.01,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 5
+  },
+  "itseffective:hastepotion": {
+    "ResultItem": "itseffective:miningfatiguepotion",
+    "Effect": "minecraft:mining_fatigue",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 6
+  },
+  "itseffective:miningfatiguepotion": {
+    "ResultItem": "itseffective:hastepotion",
+    "Effect": "minecraft:haste",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 7
+  },
+  "itseffective:invisibilitypotion": {
+    "ResultItem": "itseffective:glowingpotion",
+    "Effect": "minecraft:glowing",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 4
+  },
+  "itseffective:glowingpotion": {
+    "ResultItem": "itseffective:invisibilitypotion",
+    "Effect": "minecraft:invisibility",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 6
+  },
+  "itseffective:strengthpotion": {
+    "ResultItem": "itseffective:weaknesspotion",
+    "Effect": "minecraft:weakness",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 7
+  },
+  "itseffective:weaknesspotion": {
+    "ResultItem": "itseffective:strengthpotion",
+    "Effect": "minecraft:strength",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 7
+  },
+  "itseffective:speedthrowablepotion": {
+    "ResultItem": "itseffective:slownessthrowablepotion",
+    "Effect": "minecraft:slowness",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 3
+  },
+  "itseffective:slownessthrowablepotion": {
+    "ResultItem": "itseffective:speedthrowablepotion",
+    "Effect": "minecraft:speed",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 3
+  },
+  "itseffective:regenerationthrowablepotion": {
+    "ResultItem": "itseffective:poisonthrowablepotion",
+    "Effect": "minecraft:poison",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 5
+  },
+  "itseffective:poisonthrowablepotion": {
+    "ResultItem": "itseffective:regenerationthrowablepotion",
+    "Effect": "minecraft:regeneration",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 4
+  },
+  "itseffective:warmingthrowablepotion": {
+    "ResultItem": "itseffective:fireresistancethrowablepotion",
+    "Effect": "minecraft:fire_resistance",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 4
+  },
+  "itseffective:fireresistancethrowablepotion": {
+    "ResultItem": "itseffective:warmingthrowablepotion",
+    "Effect": "itseffective:warming",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 4
+  },
+  "itseffective:nightvisionthrowablepotion": {
+    "ResultItem": "itseffective:blindnessthrowablepotion",
+    "Effect": "minecraft:blindness",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 6
+  },
+  "itseffective:blindnessthrowablepotion": {
+    "ResultItem": "itseffective:nightvisionthrowablepotion",
+    "Effect": "minecraft:night_vision",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 3
+  },
+  "itseffective:corruptedthrowablepotion": {
+    "ResultItem": "itseffective:stabilisationthrowablepotion",
+    "Effect": "itseffective:stabilisation",
+    "LevelMod": 0,
+    "TimeMod": 59,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 5
+  },
+  "itseffective:stabilisationthrowablepotion": {
+    "ResultItem": "itseffective:corruptedthrowablepotion",
+    "Effect": "minecraft:instant_damage",
+    "LevelMod": 0,
+    "TimeMod": 1,
+    "TimeMult": 0.01,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 5
+  },
+  "itseffective:hastethrowablepotion": {
+    "ResultItem": "itseffective:miningfatiguethrowablepotion",
+    "Effect": "minecraft:mining_fatigue",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 6
+  },
+  "itseffective:miningfatiguethrowablepotion": {
+    "ResultItem": "itseffective:hastethrowablepotion",
+    "Effect": "minecraft:haste",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 7
+  },
+  "itseffective:invisibilitythrowablepotion": {
+    "ResultItem": "itseffective:glowingthrowablepotion",
+    "Effect": "minecraft:glowing",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 4
+  },
+  "itseffective:glowingthrowablepotion": {
+    "ResultItem": "itseffective:invisibilitythrowablepotion",
+    "Effect": "minecraft:invisibility",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 6
+  },
+  "itseffective:strengththrowablepotion": {
+    "ResultItem": "itseffective:weaknessthrowablepotion",
+    "Effect": "minecraft:weakness",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 7
+  },
+  "itseffective:weaknessthrowablepotion": {
+    "ResultItem": "itseffective:strengththrowablepotion",
+    "Effect": "minecraft:strength",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 7
+  }
+}

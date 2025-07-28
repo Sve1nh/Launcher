@@ -1,0 +1,8 @@
+[18:14:24] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[18:14:24] [INIT] Loaded plugins:
+[18:14:24] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:14:24] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[18:14:24] [ERROR] ! example.js#1: ReferenceError: "event" is not defined.
+[18:14:24] [INFO] Loaded 0/1 KubeJS server scripts in 0.033 s with 1 errors and 0 warnings
+[18:14:24] [INFO] Scripts loaded
+[18:14:35] [INFO] Server resource reload complete!

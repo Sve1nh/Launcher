@@ -1,0 +1,31 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:strange_tincture; itseffective:corruptedpotion; itseffective:corruptedthrowablepotion;",
+  "itseffective:strange_tincture": {
+    "ResultItem": "itseffective:warmingpotion",
+    "Effect": "itseffective:warming",
+    "LevelMod": 0,
+    "TimeMod": 50,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 4
+  },
+  "itseffective:corruptedpotion": {
+    "ResultItem": "itseffective:unstablepotion",
+    "Effect": "Unstable",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 0,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 5
+  },
+  "itseffective:corruptedthrowablepotion": {
+    "ResultItem": "itseffective:unstablethrowablepotion",
+    "Effect": "Unstable",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 0,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 5
+  }
+}

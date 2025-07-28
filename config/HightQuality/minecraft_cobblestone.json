@@ -1,0 +1,14 @@
+{
+  "renderingMaterial": "minecraft:cobblestone",
+  "smithingSkill": 0,
+  "isSimple": true,
+  "positions": 4,
+  "pos_1": "littlemore:stone_sword",
+  "pos_1_cost": 2,
+  "pos_2": "littlemore:stone_pickaxe",
+  "pos_2_cost": 3,
+  "pos_3": "littlemore:stone_axe",
+  "pos_3_cost": 3,
+  "pos_4": "littlemore:stone_shovel",
+  "pos_4_cost": 1
+}

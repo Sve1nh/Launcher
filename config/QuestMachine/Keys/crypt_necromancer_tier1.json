@@ -1,0 +1,11 @@
+{
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "progression:aquamarine",
+  "TargetType": "",
+  "TargetRoom": "",
+  "DungeonType": "crypt",
+  "DungeonDifficulty": 1,
+  "BossEntity": "bigboss:necromancer_tier_1"
+}

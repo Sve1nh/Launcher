@@ -1,0 +1,11 @@
+{
+  "ContractType": "find",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "",
+  "TargetType": "",
+  "TargetRoom": "",
+  "DungeonType": "library",
+  "DungeonDifficulty": 1,
+  "BossEntity": ""
+}

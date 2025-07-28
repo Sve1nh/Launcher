@@ -1,0 +1,14 @@
+{
+  "renderingMaterial": "littlemore:goldingot",
+  "isSimple": true,
+  "smithingSkill": 0,
+  "positions": 4,
+  "pos_1": "littlemore:goldsword",
+  "pos_1_cost": 2,
+  "pos_2": "littlemore:goldpickaxe",
+  "pos_2_cost": 3,
+  "pos_3": "littlemore:goldaxe",
+  "pos_3_cost": 3,
+  "pos_4": "littlemore:goldshovel",
+  "pos_4_cost": 1
+}

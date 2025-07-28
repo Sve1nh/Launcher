@@ -1,0 +1,11 @@
+{
+  "ContractType": "find",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 3,
+  "QuestItem": "littlemore:needleboringot",
+  "TargetType": "the_maze:grimwood_dungeon_box",
+  "TargetRoom": "grave",
+  "DungeonType": "crypt",
+  "DungeonDifficulty": 5,
+  "BossEntity": ""
+}

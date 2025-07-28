@@ -1,0 +1,13 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:strange_tincture;",
+  "itseffective:strange_tincture": {
+    "ResultItem": "itseffective:warmingpotion",
+    "Effect": "itseffective:warming",
+    "LevelMod": 0,
+    "TimeMod": 50,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 4
+  }
+}

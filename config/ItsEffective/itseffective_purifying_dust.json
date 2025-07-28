@@ -1,0 +1,49 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:concentrated_essense; itseffective:healingessense; itseffective:blindnesspotion; itseffective:healingessensethrowable; itseffective:blindnessthrowablepotion;",
+  "itseffective:concentrated_essense": {
+    "ResultItem": "itseffective:purificationpotion",
+    "Effect": "itseffective:purification",
+    "LevelMod": 0,
+    "TimeMod": 1,
+    "TimeMult": 0.01,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 6
+  },
+  "itseffective:healingessense": {
+    "ResultItem": "itseffective:stabilisationpotion",
+    "Effect": "itseffective:stabilisation",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 5
+  },
+  "itseffective:blindnesspotion": {
+    "ResultItem": "itseffective:invisibilitypotion",
+    "Effect": "minecraft:invisibility",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 6
+  },
+  "itseffective:healingessensethrowable": {
+    "ResultItem": "itseffective:stabilisationthrowablepotion",
+    "Effect": "itseffective:stabilisation",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 5
+  },
+  "itseffective:blindnessthrowablepotion": {
+    "ResultItem": "itseffective:invisibilitythrowablepotion",
+    "Effect": "minecraft:invisibility",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 6
+  }
+}

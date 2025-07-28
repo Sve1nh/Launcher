@@ -1,0 +1,22 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:unstablepotion; itseffective:unstablethrowablepotion;",
+  "itseffective:unstablepotion": {
+    "ResultItem": "itseffective:teleportationpotion",
+    "Effect": "Teleportation",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 0,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 8
+  },
+  "itseffective:unstablethrowablepotion": {
+    "ResultItem": "itseffective:teleportationthrowablepotion",
+    "Effect": "Teleportation",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 0,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 8
+  }
+}

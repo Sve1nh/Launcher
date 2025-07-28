@@ -1,0 +1,22 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:stoneskinpotion; itseffective:stoneskinthrowablepotion;",
+  "itseffective:stoneskinpotion": {
+    "ResultItem": "itseffective:reflectionpotion",
+    "Effect": "itseffective:reflection",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 9
+  },
+  "itseffective:stoneskinthrowablepotion": {
+    "ResultItem": "itseffective:reflectionthrowablepotion",
+    "Effect": "itseffective:reflection",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 9
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contractwithkey",
+  "ConvertTo": "quest_machine:contract",
+  "ContractName": "\u00A72Fogged Guardian",
+  "Description": "Kill the Fogged Guardian",
+  "Lore": "Kill the Fogged Guardian in the Smokehold.",
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "quest_machine:guardian_soul_2",
+  "TargetType": "",
+  "TargetRoom": "",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 15,
+  "MaxPayment": 30,
+  "DungeonType": "smokehold",
+  "DungeonDifficulty": 2,
+  "BossEntity": "bigboss:fogged_guardian_tier_2"
+}

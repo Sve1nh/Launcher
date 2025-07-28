@@ -1,0 +1,13 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:smoke_bomb_empty;",
+  "itseffective:smoke_bomb_empty": {
+    "ResultItem": "itseffective:smoke_bomb_fog",
+    "Effect": "Fog Cloud",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 0,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 3
+  }
+}

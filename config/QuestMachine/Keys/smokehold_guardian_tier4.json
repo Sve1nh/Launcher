@@ -1,0 +1,11 @@
+{
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "",
+  "TargetType": "",
+  "TargetRoom": "",
+  "DungeonType": "smokehold",
+  "DungeonDifficulty": 4,
+  "BossEntity": "bigboss:fogged_guardian_tier_4"
+}

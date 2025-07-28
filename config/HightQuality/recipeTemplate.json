@@ -1,0 +1,10 @@
+{
+  "renderingMaterial": "minecraft:stone",
+  "smithingSkill": 0,
+  "isSimple": false,
+  "positions": 2,
+  "pos_1": "minecraft:stone",
+  "pos_1_cost": 2,
+  "pos_2": "minecraft:cobblestone",
+  "pos_2_cost": 1
+}

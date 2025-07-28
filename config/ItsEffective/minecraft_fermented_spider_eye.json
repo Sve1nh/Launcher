@@ -1,0 +1,121 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:concentrated_essense; itseffective:regenerationpotion; itseffective:nightvisionpotion; itseffective:purificationpotion; itseffective:stoneskinpotion; itseffective:strengthpotion; itseffective:invisibilitypotion; itseffective:regenerationthrowablepotion; itseffective:nightvisionthrowablepotion; itseffective:purificationthrowablepotion; itseffective:stoneskinthrowablepotion; itseffective:strengththrowablepotion; itseffective:invisibilitythrowablepotion;",
+  "itseffective:concentrated_essense": {
+    "ResultItem": "itseffective:corruptedpotion",
+    "Effect": "minecraft:instant_damage",
+    "LevelMod": 0,
+    "TimeMod": 1,
+    "TimeMult": 0.01,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 5
+  },
+  "itseffective:regenerationpotion": {
+    "ResultItem": "itseffective:witheringpotion",
+    "Effect": "minecraft:wither",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 8
+  },
+  "itseffective:nightvisionpotion": {
+    "ResultItem": "itseffective:blindnesspotion",
+    "Effect": "minecraft:blindness",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 6
+  },
+  "itseffective:purificationpotion": {
+    "ResultItem": "itseffective:poisonpotion",
+    "Effect": "minecraft:poison",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 5
+  },
+  "itseffective:stoneskinpotion": {
+    "ResultItem": "itseffective:corrosionpotion",
+    "Effect": "itseffective:corrosion",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 5
+  },
+  "itseffective:strengthpotion": {
+    "ResultItem": "itseffective:weaknesspotion",
+    "Effect": "minecraft:weakness",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 7
+  },
+  "itseffective:invisibilitypotion": {
+    "ResultItem": "itseffective:glowingpotion",
+    "Effect": "minecraft:glowing",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 4
+  },
+  "itseffective:regenerationthrowablepotion": {
+    "ResultItem": "itseffective:witheringthrowablepotion",
+    "Effect": "minecraft:wither",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 8
+  },
+  "itseffective:nightvisionthrowablepotion": {
+    "ResultItem": "itseffective:blindnessthrowablepotion",
+    "Effect": "minecraft:blindness",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 6
+  },
+  "itseffective:purificationthrowablepotion": {
+    "ResultItem": "itseffective:poisonthrowablepotion",
+    "Effect": "minecraft:poison",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 5
+  },
+  "itseffective:stoneskinthrowablepotion": {
+    "ResultItem": "itseffective:corrosionthrowablepotion",
+    "Effect": "itseffective:corrosion",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 5
+  },
+  "itseffective:strengththrowablepotion": {
+    "ResultItem": "itseffective:weaknessthrowablepotion",
+    "Effect": "minecraft:weakness",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 7
+  },
+  "itseffective:invisibilitythrowablepotion": {
+    "ResultItem": "itseffective:glowingthrowablepotion",
+    "Effect": "minecraft:glowing",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 4
+  }
+}

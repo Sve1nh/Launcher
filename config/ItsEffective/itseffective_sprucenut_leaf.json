@@ -1,0 +1,49 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "minecraft:potion; itseffective:sprucenut_tincture; itseffective:strange_tincture; itseffective:nightvisionpotion; itseffective:nightvisionthrowablepotion;",
+  "minecraft:potion": {
+    "ResultItem": "itseffective:sprucenut_tincture",
+    "Effect": "minecraft:speed",
+    "LevelMod": 0,
+    "TimeMod": 10,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 2
+  },
+  "itseffective:sprucenut_tincture": {
+    "ResultItem": "itseffective:regenerationpotion",
+    "Effect": "minecraft:regeneration",
+    "LevelMod": 0,
+    "TimeMod": 50,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 4
+  },
+  "itseffective:strange_tincture": {
+    "ResultItem": "itseffective:growingpotion",
+    "Effect": "Growing",
+    "LevelMod": 0,
+    "TimeMod": 50,
+    "TimeMult": 0,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 3
+  },
+  "itseffective:nightvisionpotion": {
+    "ResultItem": "itseffective:glowingpotion",
+    "Effect": "minecraft:glowing",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 4
+  },
+  "itseffective:nightvisionthrowablepotion": {
+    "ResultItem": "itseffective:glowingthrowablepotion",
+    "Effect": "minecraft:glowing",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 1,
+    "RequiredSkill": 4
+  }
+}

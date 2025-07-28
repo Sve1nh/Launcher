@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contract",
+  "ConvertTo": "",
+  "ContractName": "\u00A73Material purchase",
+  "Description": "Bring required ores",
+  "Lore": "I need professional miner. Can you bring me some special ores?",
+  "ContractType": "collect",
+  "MinTargetCount": 16,
+  "MaxTargetCount": 32,
+  "QuestItem": "tag;quest_machine:miner_quest_tier3",
+  "TargetType": "",
+  "TargetRoom": "",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 15,
+  "MaxPayment": 32,
+  "DungeonType": "",
+  "DungeonDifficulty": 0,
+  "BossEntity": ""
+}

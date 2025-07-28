@@ -1,0 +1,22 @@
+{
+  "renderingMaterial": "littlemore:swordeloningot",
+  "isSimple": false,
+  "smithingSkill": 8,
+  "positions": 8,
+  "pos_1": "littlemore:swordelonsword",
+  "pos_1_cost": 2,
+  "pos_2": "littlemore:swordelonpickaxe",
+  "pos_2_cost": 3,
+  "pos_3": "littlemore:swordelonaxe",
+  "pos_3_cost": 3,
+  "pos_4": "littlemore:swordelonshovel",
+  "pos_4_cost": 1,
+  "pos_5": "littlemore:swordelonarmor_helmet",
+  "pos_5_cost": 5,
+  "pos_6": "littlemore:swordelonarmor_chestplate",
+  "pos_6_cost": 8,
+  "pos_7": "littlemore:swordelonarmor_leggings",
+  "pos_7_cost": 7,
+  "pos_8": "littlemore:swordelonarmor_boots",
+  "pos_8_cost": 4
+}

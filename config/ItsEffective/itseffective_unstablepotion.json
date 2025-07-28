@@ -1,0 +1,22 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:invisibilitypotion; itseffective:invisibilitythrowablepotion;",
+  "itseffective:invisibilitypotion": {
+    "ResultItem": "itseffective:teleportationpotion",
+    "Effect": "Teleportation",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 0,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 8
+  },
+  "itseffective:invisibilitythrowablepotion": {
+    "ResultItem": "itseffective:teleportationthrowablepotion",
+    "Effect": "Teleportation",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 0,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 8
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Tier1": {
+    "Enters": 1,
+    "LootTable1": "dungeon_core:grave_1_copper",
+	"LootTable2": "dungeon_core:grave_1_tin"
+  },
+  "Tier2": {
+    "Enters": 2,
+    "LootTable1": "dungeon_core:grave_2_bronze",
+	"LootTable2": "dungeon_core:grave_2_iron"
+  },
+  "Tier3": {
+    "Enters": 4,
+    "LootTable1": "dungeon_core:grave_3_dalon",
+	"LootTable2": "dungeon_core:grave_3_forkerite",
+	"LootTable3": "dungeon_core:grave_3_oksa",
+	"LootTable4": "dungeon_core:grave_3_steel"
+  },
+  "Tier4": {
+    "Enters": 4,
+	"LootTable1": "dungeon_core:grave_4_brout",
+	"LootTable2": "dungeon_core:grave_4_palachite",
+	"LootTable3": "dungeon_core:grave_4_kianor",
+	"LootTable4": "dungeon_core:grave_4_epress"
+  },
+  "Tier5": {
+    "Enters": 3,
+    "LootTable1": "dungeon_core:grave_5_malenturne",
+	"LootTable2": "dungeon_core:grave_5_zaplat",
+	"LootTable3": "dungeon_core:grave_5_swordelon"
+  }
+}

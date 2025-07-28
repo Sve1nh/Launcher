@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contract_with_key_tnt",
+  "ConvertTo": "quest_machine:contract_tnt",
+  "ContractName": "\u00A75Explosive!",
+  "Description": "Destroy pillagers mine",
+  "Lore": "There is a pillagers mine nearby. We need to destroy it. Here's some TNT, plant it near the supporting columns of the mine.",
+  "ContractType": "interact",
+  "MinTargetCount": 2,
+  "MaxTargetCount": 3,
+  "QuestItem": "",
+  "TargetType": "quest_machine:explosive_boxes",
+  "TargetRoom": "column",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 52,
+  "MaxPayment": 100,
+  "DungeonType": "mine",
+  "DungeonDifficulty": 4,
+  "BossEntity": ""
+}

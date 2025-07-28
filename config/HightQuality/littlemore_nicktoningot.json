@@ -1,0 +1,22 @@
+{
+  "renderingMaterial": "littlemore:nicktoningot",
+  "isSimple": false,
+  "smithingSkill": 5,
+  "positions": 8,
+  "pos_1": "littlemore:nicktonsword",
+  "pos_1_cost": 2,
+  "pos_2": "littlemore:nicktonpickaxe",
+  "pos_2_cost": 3,
+  "pos_3": "littlemore:nicktonaxe",
+  "pos_3_cost": 3,
+  "pos_4": "littlemore:nicktonshovel",
+  "pos_4_cost": 1,
+  "pos_5": "littlemore:nicktonarmor_helmet",
+  "pos_5_cost": 5,
+  "pos_6": "littlemore:nicktonarmor_chestplate",
+  "pos_6_cost": 8,
+  "pos_7": "littlemore:nicktonarmor_leggings",
+  "pos_7_cost": 7,
+  "pos_8": "littlemore:nicktonarmor_boots",
+  "pos_8_cost": 4
+}

@@ -1,0 +1,40 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:regenerationpotion; itseffective:stoneskinpotion; itseffective:regenerationthrowablepotion; itseffective:stoneskinthrowablepotion;",
+  "itseffective:regenerationpotion": {
+    "ResultItem": "itseffective:powerpotion",
+    "Effect": "itseffective:power",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 9
+  },
+  "itseffective:stoneskinpotion": {
+    "ResultItem": "itseffective:fortresspotion",
+    "Effect": "itseffective:fortress",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 9
+  },
+  "itseffective:regenerationthrowablepotion": {
+    "ResultItem": "itseffective:powerthrowablepotion",
+    "Effect": "itseffective:power",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 9
+  },
+  "itseffective:stoneskinthrowablepotion": {
+    "ResultItem": "itseffective:fortressthrowablepotion",
+    "Effect": "itseffective:fortress",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 9
+  }
+}

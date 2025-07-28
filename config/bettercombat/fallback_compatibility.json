@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "blacklist_item_id_regex": "",
+  "fallback_compatibility": [
+    {
+      "item_id_regex": "claymore|great_sword|greatsword|malenturnsword|diswixsword|broutsword|nicktonsword|dalonsword",
+      "weapon_attributes": "bettercombat:claymore"
+    },
+    {
+      "item_id_regex": "great_hammer|greathammer|war_hammer|warhammer|maul",
+      "weapon_attributes": "bettercombat:hammer"
+    },
+    {
+      "item_id_regex": "double_axe|doubleaxe|war_axe|waraxe|great_axe|greataxe|swordelonaxe",
+      "weapon_attributes": "bettercombat:double_axe"
+    },
+    {
+      "item_id_regex": "scythe",
+      "weapon_attributes": "bettercombat:scythe"
+    },
+    {
+      "item_id_regex": "halberd|epresssword|steelsword|ironsword",
+      "weapon_attributes": "bettercombat:halberd"
+    },
+    {
+      "item_id_regex": "glaive",
+      "weapon_attributes": "bettercombat:glaive"
+    },
+    {
+      "item_id_regex": "spear|needleborsword|smithersilksword|shovel",
+      "weapon_attributes": "bettercombat:spear"
+    },
+    {
+      "item_id_regex": "lance",
+      "weapon_attributes": "bettercombat:lance"
+    },
+    {
+      "item_id_regex": "anchor",
+      "weapon_attributes": "bettercombat:anchor"
+    },
+    {
+      "item_id_regex": "battlestaff|battle_staff",
+      "weapon_attributes": "bettercombat:battlestaff"
+    },
+    {
+      "item_id_regex": "claw",
+      "weapon_attributes": "bettercombat:claw"
+    },
+    {
+      "item_id_regex": "fist|gauntlet",
+      "weapon_attributes": "bettercombat:fist"
+    },
+    {
+      "item_id_regex": "trident|javelin|impaled",
+      "weapon_attributes": "bettercombat:trident"
+    },
+    {
+      "item_id_regex": "katana|palachitesword|swordelonsword",
+      "weapon_attributes": "bettercombat:katana"
+    },
+    {
+      "item_id_regex": "rapier|coppersword|goldsword",
+      "weapon_attributes": "bettercombat:rapier"
+    },
+    {
+      "item_id_regex": "sickle",
+      "weapon_attributes": "bettercombat:sickle"
+    },
+    {
+      "item_id_regex": "soul_knife",
+      "weapon_attributes": "bettercombat:soul_knife"
+    },
+    {
+      "item_id_regex": "dagger|knife|forkeritesword|kianorsword",
+      "weapon_attributes": "bettercombat:dagger"
+    },
+    {
+      "item_id_regex": "staff|wand|sceptre|stave|rod",
+      "weapon_attributes": "bettercombat:wand"
+    },
+    {
+      "item_id_regex": "mace|hammer|flail|pickaxe",
+      "weapon_attributes": "bettercombat:mace"
+    },
+    {
+      "item_id_regex": "axe|oksaaxe",
+      "weapon_attributes": "bettercombat:axe"
+    },
+    {
+      "item_id_regex": "coral_blade",
+      "weapon_attributes": "bettercombat:coral_blade"
+    },
+    {
+      "item_id_regex": "twin_blade|twinblade",
+      "weapon_attributes": "bettercombat:twin_blade"
+    },
+    {
+      "item_id_regex": "cutlass|scimitar|machete",
+      "weapon_attributes": "bettercombat:cutlass"
+    },
+    {
+      "item_id_regex": "sword|blade",
+      "weapon_attributes": "bettercombat:sword"
+    }
+  ],
+  "ranged_weapons": [
+    {
+      "item_id_regex": "two_handed_crossbow",
+      "weapon_attributes": "bettercombat:crossbow_two_handed_heavy"
+    },
+    {
+      "item_id_regex": "two_handed_bow",
+      "weapon_attributes": "bettercombat:bow_two_handed_heavy"
+    }
+  ]
+}

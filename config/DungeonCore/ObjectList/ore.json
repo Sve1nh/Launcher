@@ -1,0 +1,26 @@
+{
+  "Tier1": {
+    "Enters": 2,
+    "Block1": "littlemore:copper_cavestone_ore",
+	"Block2": "littlemore:tin_cavestone_ore"
+  },
+  "Tier2": {
+    "Enters": 2,
+    "Block1": "littlemore:iron_cavestone_ore",
+    "Block2": "littlemore:gold_cavestone_ore"
+  },
+  "Tier3": {
+    "Enters": 2,
+    "Block1": "littlemore:forkerite_cavestone_ore",
+    "Block2": "littlemore:dalon_cavestone_ore"
+  },
+  "Tier4": {
+    "Enters": 1,
+    "Block1": "littlemore:diswix_cavestone_ore"
+  },
+  "Tier5": {
+    "Enters": 2,
+    "Block1": "littlemore:thermium_cavestone_ore",
+    "Block2": "littlemore:diswix_cavestone_ore"
+  }
+}

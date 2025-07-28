@@ -1,0 +1,22 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "itseffective:corruptedpotion; itseffective:corruptedthrowablepotion;",
+  "itseffective:corruptedpotion": {
+    "ResultItem": "itseffective:corrosionpotion",
+    "Effect": "itseffective:corrosion",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 5
+  },
+  "itseffective:corruptedthrowablepotion": {
+    "ResultItem": "itseffective:corrosionthrowablepotion",
+    "Effect": "itseffective:corrosion",
+    "LevelMod": 0,
+    "TimeMod": 0,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 5
+  }
+}

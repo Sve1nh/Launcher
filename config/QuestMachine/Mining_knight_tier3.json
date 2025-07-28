@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contractwithkey",
+  "ConvertTo": "quest_machine:contract",
+  "ContractName": "\u00A73Mining Knight",
+  "Description": "Bring ore from ocupied mines",
+  "Lore": "The mine nearby was ocupied by pillagers. But i need special ore from here. Can you help me?",
+  "ContractType": "find",
+  "MinTargetCount": 2,
+  "MaxTargetCount": 3,
+  "QuestItem": "quest_machine:ti_furn_raw_3",
+  "TargetType": "quest_machine:ti_furn_ore_block_3",
+  "TargetRoom": "ore",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 24,
+  "MaxPayment": 52,
+  "DungeonType": "mine",
+  "DungeonDifficulty": 3,
+  "BossEntity": ""
+}

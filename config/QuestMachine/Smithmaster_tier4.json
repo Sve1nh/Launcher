@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contract",
+  "ConvertTo": "",
+  "ContractName": "\u00A75Smithmaster",
+  "Description": "Bring required equipment",
+  "Lore": "I need some special equipment. Can you help me?",
+  "ContractType": "collect",
+  "MinTargetCount": 2,
+  "MaxTargetCount": 5,
+  "QuestItem": "tag;quest_machine:smither_quest_tier4",
+  "TargetType": "",
+  "TargetRoom": "",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 32,
+  "MaxPayment": 64,
+  "DungeonType": "",
+  "DungeonDifficulty": 0,
+  "BossEntity": ""
+}

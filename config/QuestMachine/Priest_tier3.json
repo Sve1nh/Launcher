@@ -1,0 +1,19 @@
+{
+  "ContractItem": "quest_machine:contractwithkey",
+  "ConvertTo": "quest_machine:contract",
+  "ContractName": "\u00A73Priest",
+  "Description": "Kill the undead priest",
+  "Lore": "Kill the undead priest and find the flower.",
+  "ContractType": "boss",
+  "MinTargetCount": 1,
+  "MaxTargetCount": 1,
+  "QuestItem": "quest_machine:flower_3",
+  "TargetType": "",
+  "TargetRoom": "",
+  "PaymentItem": "progression:aquamarine",
+  "MinPayment": 40,
+  "MaxPayment": 90,
+  "DungeonType": "crypt",
+  "DungeonDifficulty": 3,
+  "BossEntity": "bigboss:priest_tier_3"
+}

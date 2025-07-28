@@ -1,0 +1,13 @@
+{
+  "ComponentType": "component",
+  "RegistredEnters": "minecraft:potion;",
+  "minecraft:potion": {
+    "ResultItem": "itseffective:concentrated_essense",
+    "Effect": "No effect",
+    "LevelMod": 0,
+    "TimeMod": 60,
+    "TimeMult": 1,
+    "DestabilisationMod": 0,
+    "RequiredSkill": 4
+  }
+}

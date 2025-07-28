@@ -1,0 +1,263 @@
+{
+  "ObjectsCount": 49,
+  "Object1": {
+    "renderedItem": "itseffective:sprucenut_extract",
+    "name": "",
+    "slot": "9"
+  },
+  "Object2": {
+    "renderedItem": "itseffective:strange_extract",
+    "name": "",
+    "slot": "10"
+  },
+  "Object3": {
+    "renderedItem": "itseffective:fround_root_extract",
+    "name": "",
+    "slot": "11"
+  },
+  "Object4": {
+    "renderedItem": "itseffective:purifying_dust",
+    "name": "",
+    "slot": "15"
+  },
+  "Object5": {
+    "renderedItem": "itseffective:sprucenut_tincture",
+    "name": "",
+    "slot": "18"
+  },
+  "Object6": {
+    "renderedItem": "itseffective:strange_tincture",
+    "name": "",
+    "slot": "19"
+  },
+  "Object7": {
+    "renderedItem": "itseffective:speedpotion",
+    "name": "",
+    "slot": "27"
+  },
+  "Object8": {
+    "renderedItem": "itseffective:jumpboostpotion",
+    "name": "",
+    "slot": "28"
+  },
+  "Object9": {
+    "renderedItem": "itseffective:slownesspotion",
+    "name": "",
+    "slot": "29"
+  },
+  "Object10": {
+    "renderedItem": "itseffective:growingpotion",
+    "name": "",
+    "slot": "30"
+  },
+  "Object11": {
+    "renderedItem": "minecraft:gunpowder",
+    "name": "",
+    "slot": "34"
+  },
+  "Object12": {
+    "renderedItem": "itseffective:concentrated_essense",
+    "name": "",
+    "slot": "36"
+  },
+  "Object13": {
+    "renderedItem": "itseffective:glowingpotion",
+    "name": "",
+    "slot": "37"
+  },
+  "Object14": {
+    "renderedItem": "itseffective:fireresistancepotion",
+    "name": "",
+    "slot": "38"
+  },
+  "Object15": {
+    "renderedItem": "itseffective:warmingpotion",
+    "name": "",
+    "slot": "39"
+  },
+  "Object16": {
+    "renderedItem": "itseffective:regenerationpotion",
+    "name": "",
+    "slot": "40"
+  },
+  "Object17": {
+    "renderedItem": "itseffective:nightvisionpotion",
+    "name": "",
+    "slot": "41"
+  },
+  "Object18": {
+    "renderedItem": "minecraft:glowstone_dust",
+    "name": "",
+    "slot": "42"
+  },
+  "Object19": {
+    "renderedItem": "minecraft:redstone",
+    "name": "",
+    "slot": "43"
+  },
+  "Object20": {
+    "renderedItem": "itseffective:stabilisationpotion",
+    "name": "",
+    "slot": "45"
+  },
+  "Object21": {
+    "renderedItem": "itseffective:corruptedpotion",
+    "name": "",
+    "slot": "46"
+  },
+  "Object22": {
+    "renderedItem": "itseffective:unstablepotion",
+    "name": "",
+    "slot": "47"
+  },
+  "Object23": {
+    "renderedItem": "itseffective:healingessense",
+    "name": "",
+    "slot": "48"
+  },
+  "Object24": {
+    "renderedItem": "itseffective:poisonpotion",
+    "name": "",
+    "slot": "49"
+  },
+  "Object25": {
+    "renderedItem": "itseffective:corrosionpotion",
+    "name": "",
+    "slot": "50"
+  },
+  "Object26": {
+    "renderedItem": "minecraft:nether_wart",
+    "name": "",
+    "slot": "51"
+  },
+  "Object27": {
+    "renderedItem": "littlemore:epressarmor_chestplate",
+    "name": "",
+    "slot": "53"
+  },
+  "Object28": {
+    "renderedItem": "itseffective:blindnesspotion",
+    "name": "",
+    "slot": "54"
+  },
+  "Object29": {
+    "renderedItem": "itseffective:invisibilitypotion",
+    "name": "",
+    "slot": "55"
+  },
+  "Object30": {
+    "renderedItem": "itseffective:purificationpotion",
+    "name": "",
+    "slot": "56"
+  },
+  "Object31": {
+    "renderedItem": "itseffective:miningfatiguepotion",
+    "name": "",
+    "slot": "57"
+  },
+  "Object32": {
+    "renderedItem": "itseffective:waterbreathingpotion",
+    "name": "",
+    "slot": "58"
+  },
+  "Object33": {
+    "renderedItem": "itseffective:aquamarine_dust",
+    "name": "",
+    "slot": "60"
+  },
+  "Object34": {
+    "renderedItem": "itseffective:stoneskinpotion",
+    "name": "",
+    "slot": "63"
+  },
+  "Object35": {
+    "renderedItem": "itseffective:strengthpotion",
+    "name": "",
+    "slot": "64"
+  },
+  "Object36": {
+    "renderedItem": "itseffective:weaknesspotion",
+    "name": "",
+    "slot": "65"
+  },
+  "Object37": {
+    "renderedItem": "itseffective:hastepotion",
+    "name": "",
+    "slot": "66"
+  },
+  "Object38": {
+    "renderedItem": "minecraft:prismarine_shard",
+    "name": "",
+    "slot": "69"
+  },
+  "Object39": {
+    "renderedItem": "itseffective:witheringpotion",
+    "name": "",
+    "slot": "72"
+  },
+  "Object40": {
+    "renderedItem": "itseffective:teleportationpotion",
+    "name": "",
+    "slot": "73"
+  },
+  "Object41": {
+    "renderedItem": "minecraft:glistering_melon_slice",
+    "name": "",
+    "slot": "77"
+  },
+  "Object42": {
+    "renderedItem": "minecraft:ghast_tear",
+    "name": "",
+    "slot": "78"
+  },
+  "Object43": {
+    "renderedItem": "minecraft:echo_shard",
+    "name": "",
+    "slot": "79"
+  },
+  "Object44": {
+    "renderedItem": "itseffective:fortresspotion",
+    "name": "",
+    "slot": "81"
+  },
+  "Object45": {
+    "renderedItem": "itseffective:powerpotion",
+    "name": "",
+    "slot": "82"
+  },
+  "Object46": {
+    "renderedItem": "itseffective:reflectionpotion",
+    "name": "",
+    "slot": "83"
+  },
+  "Object47": {
+    "renderedItem": "itseffective:shieldbreakerpotion",
+    "name": "",
+    "slot": "90"
+  },
+  "Object48": {
+    "renderedItem": "itseffective:starsightpotion",
+    "name": "",
+    "slot": "91"
+  },
+  "Object49": {
+    "renderedItem": "littlemore:bastrumarmor_chestplate",
+    "name": "",
+    "slot": "98"
+  },
+  "Object50": {
+    "renderedItem": "itseffective:smoke_bomb_fog",
+    "name": "",
+    "slot": "31"
+  },
+  "Object50": {
+    "renderedItem": "itseffective:smoke_bomb_poison",
+    "name": "",
+    "slot": "32"
+  },
+  "Object50": {
+    "renderedItem": "itseffective:smoke_bomb_stabilisation",
+    "name": "",
+    "slot": "33"
+  }
+}
